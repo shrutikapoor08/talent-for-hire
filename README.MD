@@ -10,6 +10,7 @@ Please add your info to the bottom of the table in an empty row markdown format.
 | Shiv Kumar Sharma | Fresher, Looking for MERN Stack Developer Role | Jaipur, India (Ready to relocate) | MERN Stack, Android(Java), Firebase | :heavy_check_mark: | kumarshivsharma12@gmail.com <br> [Portfolio](https://shiv-k-sharma.github.io) <br> [LinkedIn](https://www.linkedin.com/in/shiv-k-sharma) |
 | Ashu Deshwal    | Frontend Engineer     | Bangalore / Gurgaon | ReactJs, Javascript, Stylus, Css, Html | :heavy_check_mark:       |  ashudeshwal999@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/ashu-deshwal/)  |
 | Shailesh Shekhawat | Full Stack Developer| Singapore| NodeJS, ReactJS/Redux, javascript/typescript, Python, AWS/Azure, REST API, Jest, MongoDB, MySQL, Docker, Kubernetes, HTML/CSS, Git, Redis, RabbitMQ.|  Remote Or Onsite | shekhawat642@gmail.com <br> [Contact on LinkedIn](https://www.linkedin.com/in/shaileshshekhawat/)|
+| Shivam Sharma| Full Stack Javascrpit Developer| India |React,ReactNative,Node,Git,Javascript | Remote Friendly |shvmsrma@gmail.com  |
 |         |         |             |           |           |            |
 |         |         |             |           |           |            |
 |         |         |             |           |           |            |
