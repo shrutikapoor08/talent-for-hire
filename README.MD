@@ -7,7 +7,7 @@ Please add your info to the bottom of the table in an empty row markdown format.
 | Kate Efimova   	|  Software Engineer 	|  Bay Area, CA  	| GO/TypeScript/Node.js/React/Redux   	| Remote friendly!  	| kefimochi@gmail.com  	|
 |  Nirmal Dalmia 	|ReactJS/React Native Developer   	|  Hyderabad 	| ReactJS, React Native, JavaScript, TypeScript, HTML, CSS, Git, VueJS, Vuex, Redux, MobX, Node, NPM	| :heavy_check_mark: |  nirmaldalmia17@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/nirmaldalmia/) 	|
 |  Anil Pandiya 	|  React JS developer 	|  India 	|   React Ecosystem/REST/Oracle/MongoDB	|  will work 	|   anilpandiya05@gmail.com	|
-|         |         |             |           |           |            |
+| Ashu Deshwal    | Frontend Engineer     | Bangalore / Gurgaon | ReactJs, Javascript, Stylus, Css, Html | :heavy_check_mark:       |  ashudeshwal999@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/ashu-deshwal/)  |
 |         |         |             |           |           |            |
 |         |         |             |           |           |            |
 |         |         |             |           |           |            |
