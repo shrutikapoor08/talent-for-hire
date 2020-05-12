@@ -12,5 +12,6 @@ Please add your info to the bottom of the table in an empty row markdown format.
 | Shivam Sharma| Full Stack Javascrpit Developer| India |React,ReactNative,Node,Git,Javascript | Remote Friendly |shvmsrma@gmail.com  |
 |  Shohel Rana    |  Frontend Developer   |  Bangladesh  | React,Angular,MongoDb,NodeJs,C#,AI |  Relocate  | iamshohelrana@gmail.com |
 | Afraz Momin   | Full Stack Javascript Developer | India  | Javascript, React, Node   | Remote friendly    | afraz.momin@gmail.com  |
+| Meggan M Green | Software Engineer and SDET; Jr or Level I | Chicago, USA | Python, Flask, Rails, HTML/CSS, SQL | On-site, Remote, Relocation | email@meggan.green <br> [LinkedIn](https://linkedin.com/in/meggangreen/) |
 |         |         |             |           |           |            |
 |         |         |             |           |           |            |
