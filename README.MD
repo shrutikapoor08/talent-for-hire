@@ -1,4 +1,4 @@
-Please add your info to the bottom of the table in an empty row markdown format.
+Please add your info to the bottom of the table in an empty row markdown format. You can also include your information to this public list - https://startuphire.me/ 
 
 |  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
 |---	    |---	    |---	        |---	      |---	      |---	      |
