@@ -1,4 +1,6 @@
 |  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
 |---	|---	|---	|---	|---	|---	|
-|Chiranjiv| Product Manager/Project Manager| Arizona, California, Washington|Product Management |Remote or Onsite|623-518-7987|
+|  Anil Pandiya 	|  React JS developer 	|  India 	|   React Ecosystem/REST/Oracle/MongoDB	|  will work 	|   anilpandiya05@gmail.com	|
+|   	|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|
 
