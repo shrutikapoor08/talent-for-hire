@@ -11,6 +11,7 @@ Please add your info to the bottom of the table in an empty row markdown format.
 | Ashu Deshwal    | Frontend Engineer     | Bangalore / Gurgaon | ReactJs, Javascript, Stylus, Css, Html | :heavy_check_mark:       |  ashudeshwal999@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/ashu-deshwal/)  |
 | Shailesh Shekhawat | Full Stack Developer| Singapore| NodeJS, ReactJS/Redux, javascript/typescript, Python, AWS/Azure, REST API, Jest, MongoDB, MySQL, Docker, Kubernetes, HTML/CSS, Git, Redis, RabbitMQ.|  Remote Or Onsite | shekhawat642@gmail.com <br> [Contact on LinkedIn](https://www.linkedin.com/in/shaileshshekhawat/)|
 | Shivam Sharma| Full Stack Javascrpit Developer| India |React,ReactNative,Node,Git,Javascript | Remote Friendly |shvmsrma@gmail.com  |
+|  Shohel Rana    |  Frontend Developer   |  Bangladesh  | React,Angular,MongoDb,NodeJs,C#,AI |  Relocate  | iamshohelrana@gmail.com |
 |         |         |             |           |           |            |
 |         |         |             |           |           |            |
 |         |         |             |           |           |            |
