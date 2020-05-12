@@ -1,5 +1,4 @@
-Please add your info to the bottom of the table in an empty row markdown format. 
-
+Please add your info to the bottom of the table in an empty row markdown format.
 
 |  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
 |---	    |---	    |---	        |---	      |---	      |---	      |
@@ -12,6 +11,6 @@ Please add your info to the bottom of the table in an empty row markdown format.
 | Shailesh Shekhawat | Full Stack Developer| Singapore| NodeJS, ReactJS/Redux, javascript/typescript, Python, AWS/Azure, REST API, Jest, MongoDB, MySQL, Docker, Kubernetes, HTML/CSS, Git, Redis, RabbitMQ.|  Remote Or Onsite | shekhawat642@gmail.com <br> [Contact on LinkedIn](https://www.linkedin.com/in/shaileshshekhawat/)|
 | Shivam Sharma| Full Stack Javascrpit Developer| India |React,ReactNative,Node,Git,Javascript | Remote Friendly |shvmsrma@gmail.com  |
 |  Shohel Rana    |  Frontend Developer   |  Bangladesh  | React,Angular,MongoDb,NodeJs,C#,AI |  Relocate  | iamshohelrana@gmail.com |
-|         |         |             |           |           |            |
+| Afraz Momin   | Full Stack Javascript Developer | India  | Javascript, React, Node   | Remote friendly    | afraz.momin@gmail.com  |
 |         |         |             |           |           |            |
 |         |         |             |           |           |            |
