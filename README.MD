@@ -14,5 +14,6 @@ Please add your info to the bottom of the table in an empty row markdown format.
 | Afraz Momin   | Full Stack Javascript Developer | India  | Javascript, React, Node   | Remote friendly    | afraz.momin@gmail.com  |
 | Meggan M Green | Software Engineer and SDET; Jr or Level I | Chicago, USA | Python, Flask, Rails, HTML/CSS, SQL | On-site, Remote, Relocation | email@meggan.green <br> [LinkedIn](https://linkedin.com/in/meggangreen/) |
 | Antariksh Chavan | Software Enginner (Android/Backend) | India | Kotlin, Java, Android, JavaScript, TypeScript, GraphQL, MongoDB, Docker, Kubernetes | Remote or Relocation within India | antarikshc@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/antarikshc/) |
+Bhavika Patel   | Junior iOS Mobile Developer | Bay Area, CA  | Swift   | Onsite   | Bhavika19p@gmail.com  |
 |         |         |             |           |           |            |
 |         |         |             |           |           |            |
