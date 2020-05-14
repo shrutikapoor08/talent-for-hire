@@ -1,4 +1,4 @@
-Please add your info to the bottom of the table in an empty row markdown format. To add your info - 
+Please add your info to the bottom of the table in an empty row in markdown format. Here are the steps - 
 1. Click on "Fork" on the top right corner. 
 2. Open README.MD and edit file.
 3. Copy blank `|         |         |             |           |           |            |` line at the bottom. 
