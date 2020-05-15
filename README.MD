@@ -27,4 +27,5 @@ Please add your info to the bottom of the table in an empty row in markdown form
 | Karan Agrawal | Full-Stack Engineer | Mumbai, India | JavaScript, Python, React, Node, Django, React Native | Remote or Onsite | mr.karanagrawal@gmail.com <br> [Portfolio](https://www.karanagrawal.me) <br> [LinkedIn](https://www.linkedin.com/in/karan28598) |
 | Bhavika Patel   | Junior iOS Mobile Developer | Bay Area, CA  | Swift   | Onsite   | Bhavika19p@gmail.com  |
 | Raghav Aggarwal |Software Engineer, Fresher | India |Python 3, C, SQL, Git, JavaScript| Yes |aggarwal.raghav96@gmail.com |
+|Rishabh Paliwal|Machine Learning Engineer|India|Excel, Dashboard, Reporting, SQL, Lead generation, Google Analytics, Python, Machine Learning|Yes|rishabhpaliwal.nitc@gmail.com|
 |         |         |             |           |           |            |
