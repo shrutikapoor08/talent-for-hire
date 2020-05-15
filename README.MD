@@ -28,4 +28,5 @@ Please add your info to the bottom of the table in an empty row in markdown form
 | Bhavika Patel   | Junior iOS Mobile Developer | Bay Area, CA  | Swift   | Onsite   | Bhavika19p@gmail.com  |
 | Raghav Aggarwal |Software Engineer, Fresher | India |Python 3, C, SQL, Git, JavaScript| Yes |aggarwal.raghav96@gmail.com |
 |Rishabh Paliwal|Machine Learning Engineer|India|Excel, Dashboard, Reporting, SQL, Lead generation, Google Analytics, Python, Machine Learning|Yes|rishabhpaliwal.nitc@gmail.com|
+| Aman Agrawal | Data Science / Machine Learning Engineer | Chicago, Illinois (open to relocate) | Python, Machine Learning, Computer Vision, Natural Language Processing, Reinforcement Learning, Javascript and frameworks, Algorithms and Data Structures, IBM Watson | Remote friendly | amnagrawal1994@gmail.com |
 |         |         |             |           |           |            |
