@@ -28,4 +28,5 @@ Please add your info to the bottom of the table in an empty row in markdown form
 | Bhavika Patel   | Junior iOS Mobile Developer | Bay Area, CA  | Swift   | Onsite   | Bhavika19p@gmail.com  |
 | Raghav Aggarwal |Software Engineer, Fresher | India |Python 3, C, SQL, Git, JavaScript| Yes |aggarwal.raghav96@gmail.com |
 |Rishabh Paliwal|Machine Learning Engineer|India|Excel, Dashboard, Reporting, SQL, Lead generation, Google Analytics, Python, Machine Learning|Yes|rishabhpaliwal.nitc@gmail.com|
+|Saiprasad Balasubramanian|Software Engineer	|Mumbai, India|Python, Flask, Django, SQL, JavaScript, Docker|On-site, Remote, Relocation|sai.cosmo@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/saiprasadbala)|
 |         |         |             |           |           |            |
