@@ -26,5 +26,5 @@ Please add your info to the bottom of the table in an empty row in markdown form
 | Antariksh Chavan | Software Enginner (Android/Backend) | India | Kotlin, Java, Android, JavaScript, TypeScript, GraphQL, MongoDB, Docker, Kubernetes | Remote or Relocation within India | antarikshc@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/antarikshc/) |
 | Karan Agrawal | Full-Stack Engineer | Mumbai, India | JavaScript, Python, React, Node, Django, React Native | Remote or Onsite | mr.karanagrawal@gmail.com <br> [Portfolio](https://www.karanagrawal.me) <br> [LinkedIn](https://www.linkedin.com/in/karan28598) |
 | Bhavika Patel   | Junior iOS Mobile Developer | Bay Area, CA  | Swift   | Onsite   | Bhavika19p@gmail.com  |
-|         |         |             |           |           |            |
+| Raghav Aggarwal |Software Engineer, Fresher | India |Python 3, C, SQL, Git, JavaScript| Yes |aggarwal.raghav96@gmail.com |
 |         |         |             |           |           |            |
