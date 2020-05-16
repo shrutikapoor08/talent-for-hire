@@ -29,4 +29,5 @@ Please add your info to the bottom of the table in an empty row in markdown form
 | Raghav Aggarwal |Software Engineer, Fresher | India |Python 3, C, SQL, Git, JavaScript| Yes |aggarwal.raghav96@gmail.com |
 |Rishabh Paliwal|Machine Learning Engineer|India|Excel, Dashboard, Reporting, SQL, Lead generation, Google Analytics, Python, Machine Learning|Yes|rishabhpaliwal.nitc@gmail.com|
 |Sridhar katta | Full Stack Developer      | Hyderabad India            |  React,Javascript,CSS,HTML,REST and Golang  |On-site, Remote, Relocation           | kattasridhar02@gmail.com [Github](https://github.com/sridhar02) <br> [LinkedIn](https://www.linkedin.com/in/sridhar02) |
+| Aman Agrawal | Data Science / Machine Learning Engineer | Chicago, Illinois (open to relocate) | Python, Machine Learning, Computer Vision, Natural Language Processing, Reinforcement Learning, Javascript and frameworks, Algorithms and Data Structures, IBM Watson | Remote friendly | amnagrawal1994@gmail.com |
 | | | | | | |
