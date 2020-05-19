@@ -31,4 +31,4 @@ Please add your info to the bottom of the table in an empty row in markdown form
 |Sridhar katta | Full Stack Developer      | Hyderabad India            |  React,Javascript,CSS,HTML,REST and Golang  |On-site, Remote, Relocation           | kattasridhar02@gmail.com [Github](https://github.com/sridhar02) <br> [LinkedIn](https://www.linkedin.com/in/sridhar02) |
 | Aman Agrawal | Data Science / Machine Learning Engineer | Chicago, Illinois (open to relocate) | Python, Machine Learning, Computer Vision, Natural Language Processing, Reinforcement Learning, Javascript and frameworks, Algorithms and Data Structures, IBM Watson | Remote friendly | amnagrawal1994@gmail.com |
 |Saiprasad Balasubramanian|Software Engineer	|Mumbai, India|Python, Flask, Django, SQL, JavaScript, Docker|On-site, Remote, Relocation|sai.cosmo@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/saiprasadbala)|
-| | | | | | |
+| Mehul Patel|Technical Evangelist, DevOps Engineer, Community Manager | Nashik, India |Docker, CI/CD, Kubernetes, Version Control, AWS, GCP, Linux, Tech Speaker | Remote |mehulpofficial@gmail.com <br> [LinkedIn](http://www.linkedin.com/in/rowdymehul) |
