@@ -38,4 +38,4 @@ Please add your info to the bottom of the table in an empty row in markdown form
 | Lauren Clark | Frontend Engineer | London, UK | React, Vue, JavaScript, Redux/Vuex, WordPress, REST, GraphQL, HTML, CSS, jQuery, UX, Git | Remote | lc@laurenclark.io |
 |Vishwanath Singh| Front end engineer| Gurgaon, India |Web and mobile apps |Remote or Onsite|+91-8373942818,schumi.offi2124@gmail.com|
 | Chetan Kumar  | Full stack Developer | India | React, Redux, Express, Node, JavaScript, HTML, CSS, GraphQl, Rest API, Jest, Mocha, Boostrap, AWS | :heavy_check_mark: | chetansain86@gmail.com | <br> [LinkedIn](https://www.linkedin.com/in/chetan-kumar86) |
-|         |         |             |           |           |            |
+| Varshini Reddy | ML/NLP Engineer/Data Scientist Intern | Dallas, Tx | Python, Java, Flask, Deep Learning, Machine Learning, Natural Language Processing, Computer Vision, Keras, PyTorch, OpenCV, Pandas, Numpy, scikit-learn, Pyspark, HTML, CSS, PHP, Java Script, AWS | Relocation: open to any where in US  |      <br> [LinkedIn](https://www.linkedin.com/in/vrt4/) <br>[varshini.thatiparthi@gmail.com](varshini.thatiparthi@gmail.com)     |
