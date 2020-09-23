@@ -55,3 +55,4 @@ Please add your info to the bottom of the table in an empty row in markdown form
 | Soumya Sharma | Software Engineer | San Francisco, CA | Python, Java, C++, SQL | Open to Remote, On-site, Relocate | soumyas1@uci.edu <br> [LinkedIn](https://www.linkedin.com/in/ssoumyas/) |
 | Janhavi Dahihande | Software Engineer (Front End/Full Stack) | San Francisco, CA | ReactJS, JavaScript, NodeJS, AngularJS, Flutter, Python, Git, HTML5, CSS3, MySQL, MongoDB | On-site/Remote | janhavidahihande@gmail.com / http://linked.in/in/janhavidahihande |
 | Suryaprakash Shanmugam | Flutter Developer | Coimbatore,India | Dart,Flutter | Remote | +91 8825423934 imssurya@outlook.com |
+|Harshvardhan Singh Bhadouria |Flutter Developer |Gwalior, India |Flutter, Dart, Firebase & Python |Open to Remote, On-site, Relocate |harshvsb1105@gmail.com / https://www.linkedin.com/in/harshvardhan-bhadouria-b02587160/ |
