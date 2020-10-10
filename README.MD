@@ -1,7 +1,9 @@
-Please add your info to the bottom of the table in an empty row in markdown format. Here are the steps - 
+Please add your info to the bottom of the table in an empty row in markdown format. 
+
+Here are the steps:
 1. Click on "Fork" on the top right corner. 
-2. Open README.MD and edit file.
-3. Copy blank `|         |         |             |           |           |            |` line at the bottom. 
+2. Open `README.MD` and edit the file.
+3. Copy blank `|  |  |  |  |  |  |` line at the bottom. 
 4. Add your info.
 5. Commit.
 6. Submit a pull request. 
