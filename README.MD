@@ -1,12 +1,19 @@
-Please add your info to the bottom of the table in an empty row in markdown format. 
+#Looking for a job during COVID pandemic sucks! 
+
+I want to help you get your next role faster. I am sharing this list with my network of recruiters and hiring managers whenever someone reaches out to me for an opportunity. If you are interested, you can enter your info to be a part of this talent list. There are no strings attached and there is no catch. This is not a marketing strategy. I will never use your email for anything other than the purpose stated above. 
+
+_Just trying to do my best to help out during these hard times.Wish you best of luck with your job search!_
+
+
 
 Here are the steps:
 1. Click on "Fork" on the top right corner. 
 2. Open `README.MD` and edit the file.
-3. Copy blank `|  |  |  |  |  |  |` line at the bottom. 
+3. Copy this `|  |  |  |  |  |  |`  and paste it at the bottom of the country you are in. 
 4. Add your info.
 5. Commit.
 6. Submit a pull request. 
+7. Good luck! 
 
 ---
 
@@ -15,12 +22,25 @@ Country:
 - [USA](#USA)
 - [Canada](#Canada)
 - [India](#India)
+- [Singapore](#Singapore)
+- [Bangladesh](#Bangladesh)
+- [United Kingdom](#United Kingdom)
+- [Pakistan](#Pakistan)
+- [China](#China)
+- [Sri Lanka](#Sri Lanka)
+- [Nigeria](#Nigeria)
+- [Ghana](#Ghana)
+- [Nepal](#Nepal)
+- [Australia](#Australia)
+- [Portugal](#Portugal)
 
 ---
 
 
 ## USA
+
 |  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
+| ------------- |-------------| -----| ------------- |-------------| -----|
 |Chiranjiv| Product Manager/Project Manager| Arizona, California, Washington|Product Management |Remote or Onsite|623-518-7987|
 | Kate Efimova   	|  Software Engineer 	|  Bay Area, CA  	| GO/TypeScript/Node.js/React/Redux   	| Remote friendly!  	| kefimochi@gmail.com  	|
 |  Teona Mushambadze 	|  Software Engineer - Frontend | Batumi, Georgia	| Javascript/Vue.js, Python	| :heavy_check_mark: |  mushambadzeteona@gmail.com <br> [Portfolio](https://highflyer910.github.io/) 	|
@@ -43,12 +63,14 @@ Country:
 
 ## Canada
 |  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
+| ------------- |-------------| -----| ------------- |-------------| -----|
 | Luisa Rojas | Software Developer | Toronto, Canada | Python, Java, JavaScript, C++, SQL, MongoDB, Docker, Git | Onsite | 🌐 [luisarojas.com](https://www.luisarojas.com/)<br> 💌 [hello@luisarojas.com](mailto:hello@luisarojas.com) |
 | Oksana Samokhvalova | Frontend Web Developer | Toronto, Canada | React, React Hooks, JavaScript, REST API, HTML, CSS, SASS, Firebase | On-site or Remote | mail: oksana.s.dev@gmail.com  <br> [LinkedIn](https://www.linkedin.com/in/oksana-samokhvalova/) |
 | Konstantin Toroshchin | Front-End Developer | Montreal, Canada | React, Javascript, Typescript, GraphQl, Node, Express, npm, Mobx, AdobeXD-UI/UX, Git, Bitbucket, Semantic-UI, HTML, CSS | Remote | email: k.toroshchin@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/konstantin-toroshchin-669b97104/) <br> Resume: [Creddle](https://resume.creddle.io/resume/7g55mby8026) |
 
 ## India
 |  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
+| ------------- |-------------| -----| ------------- |-------------| -----|
 |Vineeth D Shetty	    |Engineering Student    |India	        |Nodejs	      |	      |https://github.com/VineethDShetty |
 |  Nirmal Dalmia 	|ReactJS/React Native Developer   	|  Hyderabad 	| ReactJS, React Native, JavaScript, TypeScript, HTML, CSS, Git, VueJS, Vuex, Redux, MobX, Node, NPM	| :heavy_check_mark: |  nirmaldalmia17@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/nirmaldalmia/) 	|
 |  Anil Pandiya 	|  React JS developer 	|  India 	|   React Ecosystem/REST/Oracle/MongoDB	|  will work 	|   anilpandiya05@gmail.com	|
@@ -100,40 +122,62 @@ Country:
 | Chetanya Kandhari | Full Stack Software Developer | India | Go, React, Node.js | Remote |  [LinkedIn](https://www.linkedin.com/in/chetanya-kandhari/) <br /> [Email](mailto:availchet@gmail.com) <br /> [GitHub](https://github.com/availchet) <br /> [Twitter](https://twitter.com/availchet) <br /> [Site](https://availchet.github.io/)  |
 
 ## Singapore
+|  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
+| ------------- |-------------| -----| ------------- |-------------| -----|
 | Shailesh Shekhawat | Full Stack Developer| Singapore| NodeJS, ReactJS/Redux, javascript/typescript, Python, AWS/Azure, REST API, Jest, MongoDB, MySQL, Docker, Kubernetes, HTML/CSS, Git, Redis, RabbitMQ.|  Remote Or Onsite | shekhawat642@gmail.com <br> [Contact on LinkedIn](https://www.linkedin.com/in/shaileshshekhawat/)|
 
 ## Bangladesh
+|  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
+| ------------- |-------------| -----| ------------- |-------------| -----|
 |  Shohel Rana    |  Frontend Developer   |  Bangladesh  | React,Angular,MongoDb,NodeJs,C#,AI |  Relocate  | iamshohelrana@gmail.com |
 
 ## United Kingdom
+|  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
+| ------------- |-------------| -----| ------------- |-------------| -----|
 | Lauren Clark | Frontend Engineer | London, UK | React, Vue, JavaScript, Redux/Vuex, WordPress, REST, GraphQL, HTML, CSS, jQuery, UX, Git | Remote | lc@laurenclark.io |
 
 ## Pakistan
+|  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
+| ------------- |-------------| -----| ------------- |-------------| -----|
 | Tashfeen Rao | Full-Stack Developer | Pakistan | React, Redux, Javascript, Rails, Rest API, TDD, Heroku, Netlify | will work           | raotashfeen25@gmail.com <br> [linkedIn](https://www.linkedin.com/in/tashfeen-rao/) |
 | Ali Karani | Flutter Developer/Open source Contributor | Karachi, Pakistan | Flutter, Firebase, MERN STACK |Remote/ Relocate|+923042054458<br />[LinkedIn](https://www.linkedin.com/in/aliasgharkarani/) <br /> [Email](mailto:aliasgharkarani125@hotmail.com) <br /> [Github](https://github.com/alikarani) |
 
 ## China
+|  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
+| ------------- |-------------| -----| ------------- |-------------| -----|
 | Ming Lee | Full Stack Developer | China | React/Redux/Redux-Saga, Vue/Vuex, Node.js, Laravel, Python/Django, CI/CD, AWS, Azure, SQL | Remote only | minglee90611@gmail.com <br> [linkedIn](https://www.linkedin.com/in/ming-lee-91b489144/) |
 
 ## Sri Lanka
+|  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
+| ------------- |-------------| -----| ------------- |-------------| -----|
 | Ahamed Rasheed | Web Developer | Sri Lanka | ReactJS, Redux, PHP, Javascript, Nodejs, Firebase, Android (*Intermediate Level*) | ✔ | [Stack Overflow](https://stackoverflow.com/users/8009816/ahamed-rasheed "Ahamed's Stack overflow account") <br> [Linkedin](https://www.linkedin.com/in/ahamed-rasheed/ "Ahamed's Linkedin profile") <br> [GitHub](https://github.com/AhamedR "Ahamed's GitHub Profile") <br> [Mail me on](mailto:ahamedrasheedhot@gmail.com "Ahamed's Mail address")|
 
 
 ## Nigeria
+|  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
+| ------------- |-------------| -----| ------------- |-------------| -----|
 | Micheal Daralola Oketunde | Software Developer | Lagos, Nigeria | Vuejs | Remote | +2348028520094 | michaeldaralola123@gmail.com
 |  Emmanuel Adesile       | Frontend Engineer        | Lagos, Nigeria            | ReactJS, React Native, JavaScript, TypeScript, Git, Redux, Node GraphQL, Apollo(server and client), Prisma        | Remote or onsite         |   [Linkedin](https://linkedin.com/in/emmaadesile) <br>  [Email](mailto:emma2adesile@gmail.com) <br> [Github](https://github.com/emmaadesile)        |
 | Isienyi Paschal | Front-End Developer | Abuja, Nigeria| HTML, CSS, JavaScript, WordPress, Website deployment, Bootstrap | +2348063691741 | remote and freelance | candlepeter56@gmail.com | https://github.com/candlepeter |
 | Ude Valentine | Software Department Technical Manager | Enugu, Nigeria | Asp.Net Core, SQL, RDLC, GraphQl, HTML, CSS, ReactJs, Blazor, C#, DevOps | Remote | +2348067486937, (https://linkedin.com/in/ude-valentine)
 
 ## Ghana
+|  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
+| ------------- |-------------| -----| ------------- |-------------| -----|
 | Christopher Amanor | Full Stack Developer | Accra, Ghana | <b>Front-End:</b> HTML5, CSS3, SASS, Bootstrap, Bulma, Semantic UI. <br> <b>Back-End:</b> Ruby, Rails, PHP, JavaScript(ES5/ES6), React, Redux. <br> <b>Database:</b> MySQL, PostgreSQL. <br> <b>Testing:</b> RSpec, Capybara, Jest. <br> <b>Tools & Methods:</b> Git, Firebase, Heroku, GitHub Pages, Netlify, Responsive Design, Test Driven Development(TDD), Chrome Dev Tools, Technical Support, Remote Pair-Programming, Teamwork.  | Remote, On-site, Relocation | [Email](mailto:christopher.k.amanor@gmail.com) <br> [LinkedIn](https://www.linkedin.com/in/christopher-amanor/) <br> [GitHub](https://github.com/krys2fa)  <br> [Portfolio](https://krys2fa.github.io)           |
 | Apetsi Kojo Ampiah | Software Developer | Accra, Ghana | HTML5, CSS3, SASS/SCSS, JavaScript, Git, Bootstrap, ReactJS, VueJS, NodeJS, Postgres, MongoDB, GraphQL, Ruby, Rails, Python, Docker | Remote/Relocation | [Portfolio](www.apetsiampiah.com) <br> [LinkedIn](https://www.linkedin.com/in/aapetsi) <br> [Email](mailto:apetsiampiah@gmail.com) <br> [GitHub](https://github.com/aapetsi) |
 
 ## Nepal
+|  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
+| ------------- |-------------| -----| ------------- |-------------| -----|
 | Prateek Karki | Software Engineer | Kathmandu, Nepal | JavaScript, ReactJS | Remote/Relocation | [LinkedIn](https://linkedin.com/in/prateekkarki/)<br /> [Github](https://github.com/prateekkarki) <br /> [info@meetprateek.com](mailto:info@meetprateek.com) <br /> [meetprateek.com](https://meetprateek.com/)  |
 
 ## Australia
+|  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
+| ------------- |-------------| -----| ------------- |-------------| -----|
 | Hugo Marin | Software Engineer (Full-Stack) | Melbourne, Australia | JavaScript, React, NodeJS, .NET CORE, .NET MVC, C#, GraphQL | Remote friendly | [LinkedIn](https://www.linkedin.com/in/hugo-marin/) <br> [GitHub](https://github.com/Dev-Freak) <br> [Email](mailto:hmengineer@outlook.com)  |
 
 ## Portugal
+|  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
+| ------------- |-------------| -----| ------------- |-------------| -----|
 | Rodrigo Graça | Full-Stack Developer | Portugal|JavaScript, TypeScript, React, NodeJS/Express, Python, SQL, HTML, CSS, Ionic, Git | Remote | [LinkedIn](https://linkedin.com/in/rodrigograca31/) <br /> [Blog](https://blog.rodrigograca.com/) <br /> [Email](mailto:rodrigograca31@gmail.com) <br /> [Portfolio](https://portfolio.rodrigograca.com/) <br /> [Github](https://github.com/rodrigograca31) |
