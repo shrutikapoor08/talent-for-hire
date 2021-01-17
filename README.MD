@@ -1,8 +1,8 @@
-#Looking for a job during COVID pandemic sucks! 
+# Looking for a job during COVID pandemic sucks! 
 
 I want to help you get your next role faster. I am sharing this list with my network of recruiters and hiring managers whenever someone reaches out to me for an opportunity. If you are interested, you can enter your info to be a part of this talent list. There are no strings attached and there is no catch. This is not a marketing strategy. I will never use your email for anything other than the purpose stated above. 
 
-_Just trying to do my best to help out during these hard times.Wish you best of luck with your job search!_
+_Just trying to do my best to help out. Wish you best of luck with your job search!_
 
 
 
@@ -24,10 +24,10 @@ Country:
 - [India](#India)
 - [Singapore](#Singapore)
 - [Bangladesh](#Bangladesh)
-- [United Kingdom](#United Kingdom)
+- [United Kingdom](#United-Kingdom)
 - [Pakistan](#Pakistan)
 - [China](#China)
-- [Sri Lanka](#Sri Lanka)
+- [Sri Lanka](#Sri-Lanka)
 - [Nigeria](#Nigeria)
 - [Ghana](#Ghana)
 - [Nepal](#Nepal)
