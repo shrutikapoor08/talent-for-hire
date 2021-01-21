@@ -67,6 +67,9 @@ Country:
 | Luisa Rojas | Software Developer | Toronto, Canada | Python, Java, JavaScript, C++, SQL, MongoDB, Docker, Git | Onsite | 🌐 [luisarojas.com](https://www.luisarojas.com/)<br> 💌 [hello@luisarojas.com](mailto:hello@luisarojas.com) |
 | Oksana Samokhvalova | Frontend Web Developer | Toronto, Canada | React, React Hooks, JavaScript, REST API, HTML, CSS, SASS, Firebase | On-site or Remote | mail: oksana.s.dev@gmail.com  <br> [LinkedIn](https://www.linkedin.com/in/oksana-samokhvalova/) |
 | Konstantin Toroshchin | Front-End Developer | Montreal, Canada | React, Javascript, Typescript, GraphQl, Node, Express, npm, Mobx, AdobeXD-UI/UX, Git, Bitbucket, Semantic-UI, HTML, CSS | Remote | email: k.toroshchin@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/konstantin-toroshchin-669b97104/) <br> Resume: [Creddle](https://resume.creddle.io/resume/7g55mby8026) |
+Naveen Malhotra | Front End Developer | Toronto, Ontario, Canada | HTML5, CSS3, Javascript, Jqeury, SCSS, React.js, Redux, Liquid, Firebase, Rest API | Onsite or Remote | [naveenmalhotra05@gmail.com](mailto:naveenmalhotra05@gmail.com) or https://naveenmalhotra.ca/
+|  |  |  |  |  |  |
+
 
 ## India
 |  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
