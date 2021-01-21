@@ -123,7 +123,7 @@ Country:
 | Smile Gupta | Frontend Engineer | India |  JavaScript, HTML, CSS, React.js, Next.js, Bootstrap, Bulma | Remote / Onsite |  [LinkedIn](https://www.linkedin.com/in/smilegupta/) <br /> [Email](mailto:guptamiley3012@gmail.com) <br /> [GitHub](https://github.com/smilegupta) <br /> [Twitter](https://twitter.com/smileguptaaa) <br /> [Portfolio](https://smilegupta.github.io/portfolio-smilegupta/) |
 | Yash Gandhi | JavaScript Developer | Pune, India | React, Python, JavaScript, HTML, CSS, C++, C, Bootstrap | Remote, on-site |  [LinkedIn](https://www.linkedin.com/in/yashgandhi876/) <br /> [Email](mailto:yashgandhi2020@gmail.com) <br /> [GitHub](https://github.com/yashgandhi876) <br /> [Twitter](https://twitter.com/yashgandhi876) <br /> [Site](https://yashgandhi876.github.io/)  |
 | Sidharth Badal | Software Development / Backend / Junior Developer roles | Delhi, India | Python, Django, Flask, Rest, JavaScript, HTML/CSS, Bootstrap, PostgreSQL, MongoDB | Remote / Onsite / Relocation | [Projects](https://sidharthbadal.netlify.app/projects.html) <br /> [LinkedIn](https://www.linkedin.com/in/siddharthbadal/) <br /> [Email](mailto:sidharth.badal@gmail.com) <br /> [GitHub](https://github.com/siddharthbadal) <br /> [Twitter](https://twitter.com/siddbadal) |  
-
+| V.J.Karthik| Fullstack MERN Developer |India |React.js, Node.js, Express.js, Next.js, Gatsby.js, MongoDB |Remote |[Linkedin](https://www.linkedin.com/in/karthik-v-j-737726169/) <br /> [Email](mailto:vjk2018@gmail.com)<br />[Github](https://github.com/karthik003)|
 ## Singapore
 |  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
 | ------------- |-------------| -----| ------------- |-------------| -----|
