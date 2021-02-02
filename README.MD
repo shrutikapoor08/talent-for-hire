@@ -59,6 +59,7 @@ Country:
 | Janhavi Dahihande | Software Engineer (Front End/Full Stack) | San Francisco, CA | ReactJS, JavaScript, NodeJS, AngularJS, Flutter, Python, Git, HTML5, CSS3, MySQL, MongoDB | On-site/Remote | janhavidahihande@gmail.com / http://linked.in/in/janhavidahihande |
 | Hulya Karakaya | Front-End Developer/React Developer        |Seattle, US | React, Redux, Node, Express, Sass, HTML, CSS, Firebase, MongoDB, SQL, Python | Remote / Contract | [LinkedIn](https://www.linkedin.com/in/hulya-karakaya/) <br /> [Email](mailto:hulyakarakayaa06@gmail.com) <br /> [Portfolio](https://hulya.netlify.app/) <br /> [Github](https://github.com/hulyak)           |
 |Naveen Gara|Embedded Software Developer|Des Moines, IA |C++, Python, Bash, Squish & GoogleTest (TDD), Linux, |Onsite | <br> [Email](mailto:naveen.gara@gmail.com) <br> [LinkedIn](https://www.linkedin.com/in/garanaveen/) <br> [github](https://github.com/garanaveen) <br> [Resume](https://github.com/garanaveen/resume/blob/master/naveen.pdf) |
+ | Lucia Cerchie | Fullstack Software Developer | Arizona | JavaScript, React, NodeJS, Express, Git, SQL,  Python, HTML5, CSS |  On-site/Remote | [Portfolio](https://luciacerchie.dev/) [Github](https://github.com/Cerchie) [Twitter] (https://twitter.com/CerchieLucia) [DEV](https://dev.to/cerchie) |
 
 
 ## Canada
