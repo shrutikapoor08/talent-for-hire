@@ -82,7 +82,6 @@ Naveen Malhotra | Front End Developer | Toronto, Ontario, Canada | HTML5, CSS3, 
 | Ashu Deshwal    | Frontend Engineer     | Bangalore / Gurgaon | ReactJs, Javascript, Stylus, Css, Html | :heavy_check_mark:       |  ashudeshwal999@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/ashu-deshwal/)  |
 | Shivam Sharma| Full Stack Javascrpit Developer| India |React,ReactNative,Node,Git,Javascript | Remote Friendly |shvmsrma@gmail.com  |
 | Afraz Momin   | Full Stack Javascript Developer | India  | Javascript, React, Node   | Remote friendly    | afraz.momin@gmail.com  |
-| Antariksh Chavan | Software Enginner (Android/Backend) | India | Kotlin, Java, Android, JavaScript, TypeScript, GraphQL, MongoDB, Docker, Kubernetes | Remote or Relocation within India | antarikshc@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/antarikshc/) |
 | Karan Agrawal | Full-Stack Engineer | Mumbai, India | JavaScript, Python, React, Node, Django, React Native | Remote or Onsite | mr.karanagrawal@gmail.com <br> [Portfolio](https://www.karanagrawal.me) <br> [LinkedIn](https://www.linkedin.com/in/karan28598) |
 | Raghav Aggarwal |Software Engineer, Fresher | India |Python 3, C, SQL, Git, JavaScript| Yes |aggarwal.raghav96@gmail.com |
 |Rishabh Paliwal|Machine Learning Engineer|India|Excel, Dashboard, Reporting, SQL, Lead generation, Google Analytics, Python, Machine Learning|Yes|rishabhpaliwal.nitc@gmail.com|
