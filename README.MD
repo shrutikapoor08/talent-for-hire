@@ -29,6 +29,13 @@ Country:
 - [China](#China)
 - [Sri Lanka](#Sri-Lanka)
 - [Nigeria](#Nigeria)
+|  |  |  |  |  |  |
+Emmanuel Steve
+Front End Developer
+Nigeria/Remote
+HTML, CSS, Bootstrap, Javascript, React.js, Jquery
+portfoli: https://talk2coded.dev
+contact:emmanuelsteve43@gmail.com
 - [Ghana](#Ghana)
 - [Nepal](#Nepal)
 - [Australia](#Australia)
