@@ -29,8 +29,6 @@ Country:
 - [China](#China)
 - [Sri Lanka](#Sri-Lanka)
 - [Nigeria](#Nigeria)
-|  |  |  |  |  |  |
-
 - [Ghana](#Ghana)
 - [Nepal](#Nepal)
 - [Australia](#Australia)
