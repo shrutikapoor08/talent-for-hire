@@ -1,3 +1,9 @@
+---
+layout: page
+title: Talent List
+---
+
+
 # Looking for a job during COVID pandemic sucks! 
 
 I want to help you get your next role faster. I am sharing this list with my network of recruiters and hiring managers whenever someone reaches out to me for an opportunity. If you are interested, you can enter your info to be a part of this talent list. There are no strings attached and there is no catch. This is not a marketing strategy. I will never use your email for anything other than the purpose stated above. 
