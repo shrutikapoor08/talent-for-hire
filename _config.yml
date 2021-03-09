@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Shruti Kapoor
+name: Web developer talent list
 
 # Short bio or description (displayed in the header)
-description: Collection of Blogs
+description: Talent list for people looking for job
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/2525914?s=60&v=4
@@ -17,7 +17,7 @@ avatar: https://avatars.githubusercontent.com/u/2525914?s=60&v=4
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  github: shrutikapoor08/blogs
+  github: shrutikapoor08/talent-for-hire
   instagram:
   linkedin:
   pinterest:
