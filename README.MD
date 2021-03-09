@@ -174,6 +174,7 @@ Naveen Malhotra | Front End Developer | Toronto, Ontario, Canada | HTML5, CSS3, 
 |  Emmanuel Adesile       | Frontend Engineer        | Lagos, Nigeria            | ReactJS, React Native, JavaScript, TypeScript, Git, Redux, Node GraphQL, Apollo(server and client), Prisma        | Remote or onsite         |   [Linkedin](https://linkedin.com/in/emmaadesile) <br>  [Email](mailto:emma2adesile@gmail.com) <br> [Github](https://github.com/emmaadesile)        |
 | Isienyi Paschal | Front-End Developer | Abuja, Nigeria| HTML, CSS, JavaScript, WordPress, Website deployment, Bootstrap | +2348063691741 | remote and freelance | candlepeter56@gmail.com | https://github.com/candlepeter |
 | Ude Valentine | Software Department Technical Manager | Enugu, Nigeria | Asp.Net Core, SQL, RDLC, GraphQl, HTML, CSS, ReactJs, Blazor, C#, DevOps | Remote | +2348067486937, (https://linkedin.com/in/ude-valentine)
+| Emmanuel Steve | Front End Developer | Abia Nigeria | React.js Javascript | Remote or onsite | emmanuelsteve43@gmail.com | [Portfolio] (https://talk2coded.dev) |
 
 ## Ghana
 |  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
