@@ -82,6 +82,7 @@ Naveen Malhotra | Front End Developer | Toronto, Ontario, Canada | HTML5, CSS3, 
 ## India
 |  Name 	|  Role 	|   Location	|   Skills	|   Remote	|   Contact	|
 | ------------- |-------------| -----| ------------- |-------------| -----|
+ |Manushivam  | Front-end Engineer | Am based from Noida, open to work anywhere | Reactjs+Hooks, Redux, Redux-Saga, Angular, Nodejs, React Native, Nodejs, Sass, Html/Css, Cypress | Yes | 9988479897, https://www.linkedin.com/in/manushivam/ |
 |Vineeth D Shetty	    |Engineering Student    |India	        |Nodejs	      |	      |https://github.com/VineethDShetty |
 |  Nirmal Dalmia 	|ReactJS/React Native Developer   	|  Hyderabad 	| ReactJS, React Native, JavaScript, TypeScript, HTML, CSS, Git, VueJS, Vuex, Redux, MobX, Node, NPM	| :heavy_check_mark: |  nirmaldalmia17@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/nirmaldalmia/) 	|
 |  Anil Pandiya 	|  React JS developer 	|  India 	|   React Ecosystem/REST/Oracle/MongoDB	|  will work 	|   anilpandiya05@gmail.com	|
