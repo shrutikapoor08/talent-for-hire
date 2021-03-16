@@ -139,7 +139,7 @@ Country:
 | Binay Agarwal | Software Development Intern/Cloud Support Engineer Intern| India | Javascript, HTML, CSS, React, Node.js, C++, AWS(S3,RDB,EC2), PostgresSQL, MongoDB, MySQL | Remote/ Onsite / Relocation | [LinkedIn](https://www.linkedin.com/in/binayagarwal1112/) <br /> [Email](mailto:agarwalbinay19@gmail.com) |
 |  Soumit Das    |  Full-stack Developer (MERN)    |  Kolkata, India    |  HTML5, CSS3, Javascript, React, Vue, Node.js, Express.js, MongoDB, PostgreSQL, Git, CI/CD |   Remote    |   [Portfolio](https://www.soumitdas.com/) <br /> [Drop an Email](mailto:contact@soumitdas.com) <br /> [Connect on LinkedIn](https://www.linkedin.com/in/soumitdas99/)    |
 | Divyanshu Kumar | Frontend Software Engineer roles| Bangalore,India | ReactJs, Angular, JavaScript, HTML, CSS | Remote / Onsite / Relocation | [LinkedIn](https://www.linkedin.com/in/divyanshu-kr-dubey/) <br /> [Email](mailto:divyanshukumar8984@gmail.com) <br /> [GitHub](https://github.com/BuntyBru) <br /> | 
-
+|Manushivam  | Front-end Engineer | Am based from Noida, open to work anywhere | Reactjs+Hooks, Redux, Redux-Saga, Angular, Nodejs, React Native, Nodejs, Sass, Html/Css, Cypress | Yes | 9988479897, https://www.linkedin.com/in/manushivam/  https://github.com/Gameosutra|
 ## Singapore
 
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
