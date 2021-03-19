@@ -82,6 +82,7 @@ Country:
 
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
+|Pulkit Singh |Technical Evangelist / Gsuite Admin / Front End Web Dev / Community Roles |Navi Mumbai, India | Python, Java, AI, Cloud Computing, HTML, CSS, Javascript, Github, Git, Firebase, PHP |:heavy_check_mark: |( Portfolio )[https://PulkitSinghDev.github.io], ( Twitter ) [https://twitter.com/PulkitSinghDev], (Github)[https://github.com/PulkitSinghDev] |
 |Vineeth D Shetty        |Engineering Student    |India            |Nodejs          |	      |https://github.com/VineethDShetty |
 |  Nirmal Dalmia    |ReactJS/React Native Developer    |  Hyderabad    | ReactJS, React Native, JavaScript, TypeScript, HTML, CSS, Git, VueJS, Vuex, Redux, MobX, Node, NPM    | :heavy_check_mark: |  nirmaldalmia17@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/nirmaldalmia/)    |
 |  Anil Pandiya    |  React JS developer    |  India    |   React Ecosystem/REST/Oracle/MongoDB    |  will work    |   anilpandiya05@gmail.com    |
