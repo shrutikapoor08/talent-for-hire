@@ -40,6 +40,7 @@ Country:
 - [Australia](#Australia)
 - [Portugal](#Portugal)
 - [Italy](#Italy)
+- [Mauritius](#Mauritius)
 
 ---
 
@@ -223,4 +224,4 @@ Level*) | ✔ | [Stack Overflow](https://stackoverflow.com/users/8009816/ahamed-
 ## Mauritius
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
-| Odiso Edim    |  Full-Stack Web Developer    |  Port louis, Mauritius    | PHP/Javascript/Node.js/React/Redux/GraphQL    | Remote friendly!    | [Email](hello@odiso.dev)    <br> [Portfolio](www.odiso.dev)
+| Odiso Edim    |  Full-Stack Web Developer    |  Port louis, Mauritius    | PHP/Javascript/Node.js/React/Redux/GraphQL    | Remote friendly!    | [Email](mailto:hello@odiso.dev)    <br> [Portfolio](www.odiso.dev) <br>  [LinkedIn](https://linkedin.com/in/odisoedim/)
