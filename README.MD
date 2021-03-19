@@ -212,3 +212,9 @@ Level*) | ✔ | [Stack Overflow](https://stackoverflow.com/users/8009816/ahamed-
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Rodrigo Graça | Full-Stack Developer | Portugal|JavaScript, TypeScript, React, NodeJS/Express, Python, SQL, HTML, CSS, Ionic, Git | Remote | [LinkedIn](https://linkedin.com/in/rodrigograca31/) <br /> [Blog](https://blog.rodrigograca.com/) <br /> [Email](mailto:rodrigograca31@gmail.com) <br /> [Portfolio](https://portfolio.rodrigograca.com/) <br /> [Github](https://github.com/rodrigograca31) |
+
+## Italy
+
+|  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
+| ------------- |-------------| -----| ------------- |-------------| -----|
+| Marco Santonastasi | Software Eng Full Stack | Italy | Backend: Typescript, Javascript, Python, SQL, Mongo. Frontend: Typescript, Javascript, React, Redux, CSS. | Remote or Onsite | [Marco on LinkedIn](https://linkedin.com/in/marcosantonastasi/) <br /> [Marco on Github](https://github.com/marcosantonastasi) <br /> [Email me](mailto:marco.santonastasi@gmail.com) |
