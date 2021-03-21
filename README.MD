@@ -188,6 +188,7 @@ Level*) | ✔ | [Stack Overflow](https://stackoverflow.com/users/8009816/ahamed-
 | Isienyi Paschal | Front-End Developer | Abuja, Nigeria| HTML, CSS, JavaScript, WordPress, Website deployment, Bootstrap | +2348063691741 | remote and freelance | candlepeter56@gmail.com | https://github.com/candlepeter |
 | Ude Valentine | Software Department Technical Manager | Enugu, Nigeria | Asp.Net Core, SQL, RDLC, GraphQl, HTML, CSS, ReactJs, Blazor, C#, DevOps | Remote | +2348067486937, (https://linkedin.com/in/ude-valentine)
 | Emmanuel Steve | Front End Developer | Abia Nigeria | React.js Javascript | Remote or onsite | emmanuelsteve43@gmail.com | [Portfolio] (https://talk2coded.dev) |
+| Damilare Odumosu| Mobile Developer| Lagos, Nigeria (Open to relocation)| Flutter, Kotlin, Java| Remote| [Linkedin](https://www.linkedin.com/in/oluwadamilare-odumosu14/) <br>  [Email](mailto:oluwadamilareodumosu@hotmail.com)|
 
 ## Ghana
 
