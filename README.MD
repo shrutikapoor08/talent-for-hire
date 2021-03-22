@@ -40,6 +40,7 @@ Country:
 - [Australia](#Australia)
 - [Portugal](#Portugal)
 - [Italy](#Italy)
+- [Mauritius](#Mauritius)
 
 ---
 
@@ -220,3 +221,8 @@ Level*) | ✔ | [Stack Overflow](https://stackoverflow.com/users/8009816/ahamed-
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Marco Santonastasi | Software Eng Full Stack | Italy | Backend: Typescript, Javascript, Python, SQL, Mongo. Frontend: Typescript, Javascript, React, Redux, CSS. | Remote or Onsite | [Marco on LinkedIn](https://linkedin.com/in/marcosantonastasi/) <br /> [Marco on Github](https://github.com/marcosantonastasi) <br /> [Email me](mailto:marco.santonastasi@gmail.com) |
+
+## Mauritius
+|  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
+| ------------- |-------------| -----| ------------- |-------------| -----|
+| Odiso Edim    |  Full-Stack Web Developer    |  Port louis, Mauritius    | PHP/Javascript/Node.js/React/Redux/GraphQL    | Remote friendly!    | [Email](mailto:hello@odiso.dev)    <br> [Portfolio](www.odiso.dev) <br>  [LinkedIn](https://linkedin.com/in/odisoedim/)
