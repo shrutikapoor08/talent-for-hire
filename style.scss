@@ -25,7 +25,6 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
   padding: 0 10px;
   width: 100%;
 }
@@ -52,7 +51,6 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
 }
 
 h3 {
@@ -282,6 +280,30 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+.table {
+  margin: 1em 0;
+  min-width: 500px;
+}
+
+th {
+
+}
+
+tr {
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+
+  :nth-child(odd) td {
+    background: #ccc;
+  }
+
+  :nth-child(even) td {
+    background: #fff;
+  }
+
+}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

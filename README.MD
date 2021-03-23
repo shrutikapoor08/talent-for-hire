@@ -179,8 +179,7 @@ Country:
 
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
-| Ahamed Rasheed | Web Developer | Sri Lanka | ReactJS, Redux, PHP, Javascript, Nodejs, Firebase, Android (*Intermediate
-Level*) | ✔ | [Stack Overflow](https://stackoverflow.com/users/8009816/ahamed-rasheed "Ahamed's Stack overflow account") <br> [Linkedin](https://www.linkedin.com/in/ahamed-rasheed/ "Ahamed's Linkedin profile") <br> [GitHub](https://github.com/AhamedR "Ahamed's GitHub Profile") <br> [Mail me on](mailto:ahamedrasheedhot@gmail.com "Ahamed's Mail address")|
+| Ahamed Rasheed | Web Developer | Sri Lanka | ReactJS, Redux, PHP, Javascript, Nodejs, Firebase, Android (*Intermediate Level*) | ✔ | [Stack Overflow](https://stackoverflow.com/users/8009816/ahamed-rasheed "Ahamed's Stack overflow account") <br> [Linkedin](https://www.linkedin.com/in/ahamed-rasheed/ "Ahamed's Linkedin profile") <br> [GitHub](https://github.com/AhamedR "Ahamed's GitHub Profile") <br> [Mail me on](mailto:ahamedrasheedhot@gmail.com "Ahamed's Mail address")|
 
 ## Nigeria
 
