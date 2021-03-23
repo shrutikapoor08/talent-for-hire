@@ -293,15 +293,21 @@ th {
 tr {
   border-top: 1px solid grey;
   border-bottom: 1px solid grey;
+  padding: 1em 0;
 
-  :nth-child(odd) td {
+  &:nth-child(odd) td {
     background: #ccc;
   }
 
-  :nth-child(even) td {
+  &:nth-child(even) td {
     background: #fff;
   }
 
+}
+
+td {
+  max-width: 680px;
+  min-width: 230px;
 }
 
 
