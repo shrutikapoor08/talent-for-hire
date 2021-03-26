@@ -26,6 +26,7 @@ Here are the steps:
 Country:
 
 - [USA](#USA)
+| | | | | | |
 - [Canada](#Canada)
 - [India](#India)
 - [Singapore](#Singapore)
@@ -48,6 +49,7 @@ Country:
 
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
+| Mikkel Ridley    |  Frontend Engineer    |  Bay Area, CA    | HTML/CSS/JS/Liquid/Shopify/Node.js/React    | Remote friendly!    | kefimochi@gmail.com    |
 |Chiranjiv| Product Manager/Project Manager| Arizona, California, Washington|Product Management |Remote or Onsite|623-518-7987|
 | Kate Efimova    |  Software Engineer    |  Bay Area, CA    | GO/TypeScript/Node.js/React/Redux    | Remote friendly!    | kefimochi@gmail.com    |
 |  Teona Mushambadze    |  Software Engineer - Frontend | Batumi, Georgia    | Javascript/Vue.js, Python    | :heavy_check_mark: |  mushambadzeteona@gmail.com <br> [Portfolio](https://highflyer910.github.io/)    |
