@@ -297,11 +297,10 @@ tr {
 
 tr {
   border: 1px solid rgb(246, 248, 250);
-  background-color: rgb(246, 248, 250);
   padding: 1em 0;
 
   &:nth-child(odd) td {
-    background: #ccc;
+    background-color: rgb(246, 248, 250);
   }
 
   &:nth-child(even) td {
@@ -313,6 +312,7 @@ tr {
 td {
   max-width: 680px;
   min-width: 230px;
+  padding: 10px 20px;
 }
 
 
