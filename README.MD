@@ -15,8 +15,8 @@ Here are the steps:
 
 1. Click on "Fork" on the top right corner.
 2. Open `README.MD` and edit the file.
-3. Copy this `| | | | | | |`  and paste it at the bottom of the country you are in.
-4. Add your info.
+3. Copy this `| | | | | | |`  and paste it at the bottom of the list of candidates for the country you are in.
+4. Add your info in between the pipes you just pasted.
 5. Commit.
 6. Submit a pull request.
 7. Good luck!
@@ -69,6 +69,7 @@ Country:
 | Lucia Cerchie | Fullstack Software Developer | Arizona | JavaScript, React, NodeJS, Express, Git, SQL, Python, HTML5, CSS |  On-site/Remote | [Portfolio](https://luciacerchie.dev/) <br> [Github](https://github.com/Cerchie) <br> [Twitter](https://twitter.com/CerchieLucia) <br> [DEV](https://dev.to/cerchie) |
 | Garrett Gerdsen | Ruby on Rails Developer | Denver, Colorado | Ruby on Rails, Node.js, REST APIs, OOP, ActiveRecord, Test Driven Development, Behavior Driven Development, APIs, CRUD, RESTful Development, RSpec, PostgreSQL, SQL, GraphQL, Javascript, Node, JSON, HTML, CSS, App Deployments, CapyBara, Heroku, Sinatra, Git | On site or Remote | <br> [Email](mailto:garrett.gerdsen@gmail.com) <br> [LinkedIn](https://www.linkedin.com/in/ggerdsen/) <br> [github](https://github.com/ggerdsen) |
 | Amy Shackles | Full-stack Software Developer | Seattle, Washington | Accessibility, React, Redux, JavaScript, HTML/CSS, React Testing Library, Jest, Node.js, Express.js, MongoDB, Mocha, Chai, REST, GraphQL, Git, Netlify, Heroku, Docker, Docker Compose | Remote experienced | [Website](https://amyshackles.com) <br/> [Email](mailto:amyshackles@gmail.com)<br/>[LinkedIn](https://linkedin.com/in/AmyShackles)<br/>[Github](https://github.com/AmyShackles)|
+| Mikkel Ridley    |  Frontend Engineer    |  Bay Area, CA    | HTML/CSS/JS/Liquid/Shopify/Node.js/Express/React    | Remote friendly!    | mikkel250@gmail.com <br> [LinkedIn](https://linkedin.com/in/mikkelridley/)   |
 
 ## Canada
 
