@@ -75,7 +75,7 @@ Country:
 
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
-| Luisa Rojas | Software Developer | Toronto, Canada | Python, Java, JavaScript, C++, SQL, MongoDB, Docker, Git | Onsite | 🌐 [luisarojas.com](https://www.luisarojas.com/)<br> 💌 [hello@luisarojas.com](mailto:hello@luisarojas.com) |
+| Luisa Rojas   | Software Developer    | Toronto, Canada   | Python, Java, JavaScript, C++, SQL, MongoDB, Docker, Git  | Onsite     | 🌐 [luisarojas.com](https://www.luisarojas.com/)<br> 💌 [hello@luisarojas.com](mailto:hello@luisarojas.com) |
 | Oksana Samokhvalova | Frontend Web Developer | Toronto, Canada | React, React Hooks, JavaScript, REST API, HTML, CSS, SASS, Firebase | On-site or Remote | mail: oksana.s.dev@gmail.com  <br> [LinkedIn](https://www.linkedin.com/in/oksana-samokhvalova/) |
 | Konstantin Toroshchin | Front-End Developer | Montreal, Canada | React, Javascript, Typescript, GraphQl, Node, Express, npm, Mobx, AdobeXD-UI/UX, Git, Bitbucket, Semantic-UI, HTML, CSS | Remote | email: k.toroshchin@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/konstantin-toroshchin-669b97104/) <br> Resume: [Creddle](https://resume.creddle.io/resume/7g55mby8026) |
 | Naveen Malhotra | Front End Developer | Toronto, Ontario, Canada | HTML5, CSS3, Javascript, Jqeury, SCSS, React.js, Redux, Liquid, Firebase, Rest API | Onsite or Remote | [naveenmalhotra05@gmail.com](mailto:naveenmalhotra05@gmail.com) or https://naveenmalhotra.ca/ |
@@ -186,7 +186,7 @@ Country:
 
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
-| Micheal Daralola Oketunde | Software Developer | Lagos, Nigeria | Vuejs | Remote | +2348028520094 | michaeldaralola123@gmail.com
+| Micheal Daralola Oketunde | Software Developer | Lagos, Nigeria | Vuejs | Remote | +2348028520094 | michaeldaralola123@gmail.com |
 |  Emmanuel Adesile       | Frontend Engineer        | Lagos, Nigeria            | ReactJS, React Native, JavaScript, TypeScript, Git, Redux, Node GraphQL, Apollo(server and client), Prisma        | Remote or onsite         |   [Linkedin](https://linkedin.com/in/emmaadesile) <br>  [Email](mailto:emma2adesile@gmail.com) <br> [Github](https://github.com/emmaadesile)        |
 | Isienyi Paschal | Front-End Developer | Abuja, Nigeria| HTML, CSS, JavaScript, WordPress, Website deployment, Bootstrap | remote and freelance | +2348063691741 <br> candlepeter56@gmail.com  <br> https://github.com/candlepeter |
 | Ude Valentine | Software Department Technical Manager | Enugu, Nigeria | Asp.Net Core, SQL, RDLC, GraphQl, HTML, CSS, ReactJs, Blazor, C#, DevOps | Remote | +2348067486937, (https://linkedin.com/in/ude-valentine) |
