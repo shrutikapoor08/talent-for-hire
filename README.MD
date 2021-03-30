@@ -120,7 +120,7 @@ Country:
 | Abdul Ghani | Software Engineer | Hyderabad, India | ReactJs, React Native, Redux, JavaScript, CSS, HTML, CouchDb, MongoDb, SQL, Firebase, Android, NodeJs, CI/CD, AWS, Cloud functions, Git, Electron, PHP, Java, C | Remote/ On-Site | [LinkedIn](https://www.linkedin.com/in/abdulghanitech/) <br> [Email](mailto:abdulghanitech101@gmail.com) <br> [Portfolio](https://abdulghani.tech) <br> [GitHub](https://github.com/abdulghanitech) |
 | Soumen Dey | Full Stack Developer | Mumbai, India | React Native, React, NodeJS, PHP, Laravel, Python, MYSQL, Javascript | Remote or On-site | Mail: soumendeydesign@gmail.com |
 | Vaibhav Khulbe | Front-End Developer/designer | India | HTML, CSS, SASS, JavaScript, ReactJS, VueJS, UI design, Web design | Remote | khulbevaibhavdev@gmail.com
-| Abhimanyu Dwivedi | Full Stack Web/Devops | Delhi, India | React/Angular/Node.js/TypeScript/Firebase/AWS/Dockers/K8s | Open to Remote, On-site, Open for relocation anywhere in India | :pushpin: - [LinkedIn](https://www.linkedin.com/in/abhimanyudwivedi/), :e-mail:  [abhimanyudwivedi@outlook.com](mailto:abhimanyudwivedi@outlook.com), :link:  [dvlprabhi.me](https://dvlprabhi.me)  |
+| Abhimanyu Dwivedi | Full Stack Web/Devops | Delhi, India | React/Angular/Node.js/TypeScript/Firebase/AWS/Dockers/K8s | Open to Remote, On-site, Open for relocation anywhere in India | [LinkedIn](https://www.linkedin.com/in/abhimanyudwivedi/) <br> [abhimanyudwivedi@outlook.com](mailto:abhimanyudwivedi@outlook.com)<br> [dvlprabhi.me](https://dvlprabhi.me)  |
 | Pavan Gandhi | Full Stack Developer / Backend Developer | Delhi, India |  Javascript, Python, Nodejs, Express, REST API, HTML/CSS, React, SQL, MongoDB, Git | Remote/Relocation | [Github](https://github.com/iampavangandhi) \| [LinkedIn](https://linkedin.com/in/iampavangandhi/) \| [Email](mailto:pavangandhi100@gmail.com) |
 | Vaibhav Singh Thapli | ML/NLP Engineer/Data Scientist Intern/ Machine Learning Engineer | Uttarakhand, India | Python, Deep Learning, Machine Learning, Natural Language Processing, Computer Vision, Tensorflow, Keras, PyTorch, OpenCV, Pandas, Numpy, Data Cleaning, Data Visualization, Tableau, Data Preprocessing, Scikit-learn, Reinforcement Learning | Remote(For Now) | [LinkedIn](https://www.linkedin.com/in/vaibhav-singh-thapli-ab2568154/) <br> [Email](mailto:vaibhavthapli123@gmail.com) <br> [GitHub](https://github.com/vaibhavthapli) |
 | Vidya Bhandary | Software Engineer | Pune, India | Python, Java, Salesforce, vSphere, Data Science | On-site / Remote | [LinkedIn](https://in.linkedin.com/in/vidyabhandary) <br /> [Email](mailto:vidya.ga@gmail.com) <br /> [Portfolio](https://vidyabhandary.github.io/) <br /> [Github](https://github.com/vidyabhandary) |
@@ -224,7 +224,7 @@ Country:
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Marco Santonastasi | Software Eng Full Stack | Italy | Backend: Typescript, Javascript, Python, SQL, Mongo. Frontend: Typescript, Javascript, React, Redux, CSS. | Remote or Onsite | [Marco on LinkedIn](https://linkedin.com/in/marcosantonastasi/) <br /> [Marco on Github](https://github.com/marcosantonastasi) <br /> [Email me](mailto:marco.santonastasi@gmail.com) |
 
-## Mauritius
+## [Mauritius](#Mauritius)
 
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
