@@ -13,7 +13,7 @@ _Just trying to do my best to help out. Wish you best of luck with your job sear
 
 Here are the steps:
 
-1. Click on "Fork" on the top right corner.
+1. Click on "Fork" in the top right corner.
 2. Open `README.MD` and edit the file.
 3. Copy this `| | | | | | |`  and paste it at the bottom of the list of candidates for the country you are in.
 4. Add your info in between the pipes you just pasted.
@@ -44,13 +44,13 @@ Country:
 
 ---
 
-## USA
+## [USA](#USA)
 
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
 |Chiranjiv| Product Manager/Project Manager| Arizona, California, Washington|Product Management |Remote or Onsite|623-518-7987|
 | Kate Efimova    |  Software Engineer    |  Bay Area, CA    | GO/TypeScript/Node.js/React/Redux    | Remote friendly!    | kefimochi@gmail.com    |
-|  Teona Mushambadze    |  Software Engineer - Frontend | Batumi, Georgia    | Javascript/Vue.js, Python    | :heavy_check_mark: |  mushambadzeteona@gmail.com <br> [Portfolio](https://highflyer910.github.io/)    |
+|  Teona Mushambadze    |  Software Engineer - Frontend | Batumi, Georgia    | Javascript/Vue.js, Python    |✅ |  mushambadzeteona@gmail.com <br> [Portfolio](https://highflyer910.github.io/)    |
 | Meggan M Green | Software Engineer and SDET; Jr or Level I | Chicago, USA | Python, Flask, Rails, HTML/CSS, SQL | On-site, Remote, Relocation | email@meggan.green <br> [LinkedIn](https://linkedin.com/in/meggangreen/) |
 | Bhavika Patel   | Junior iOS Mobile Developer | Bay Area, CA  | Swift   | Onsite   | Bhavika19p@gmail.com  |
 | Aman Agrawal | Data Science / Machine Learning Engineer | Chicago, Illinois (open to relocate) | Python, Machine Learning, Computer Vision, Natural Language Processing, Reinforcement Learning, Javascript and frameworks, Algorithms and Data Structures, IBM Watson | Remote friendly | amnagrawal1994@gmail.com |
@@ -85,10 +85,10 @@ Country:
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
 |Vineeth D Shetty        |Engineering Student    |India            |Nodejs          |	      |https://github.com/VineethDShetty |
-|  Nirmal Dalmia    |ReactJS/React Native Developer    |  Hyderabad    | ReactJS, React Native, JavaScript, TypeScript, HTML, CSS, Git, VueJS, Vuex, Redux, MobX, Node, NPM    | :heavy_check_mark: |  nirmaldalmia17@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/nirmaldalmia/)    |
+|  Nirmal Dalmia    |ReactJS/React Native Developer    |  Hyderabad    | ReactJS, React Native, JavaScript, TypeScript, HTML, CSS, Git, VueJS, Vuex, Redux, MobX, Node, NPM    |✅ |  nirmaldalmia17@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/nirmaldalmia/)    |
 |  Anil Pandiya    |  React JS developer    |  India    |   React Ecosystem/REST/Oracle/MongoDB    |  will work    |   anilpandiya05@gmail.com    |
-| Shiv Kumar Sharma | Fresher, Looking for MERN Stack Developer Role | Jaipur, India (Ready to relocate) | MERN Stack, Android(Java), Firebase | :heavy_check_mark: | kumarshivsharma12@gmail.com <br> [Portfolio](https://shiv-k-sharma.github.io) <br> [LinkedIn](https://www.linkedin.com/in/shiv-k-sharma) |
-| Ashu Deshwal    | Frontend Engineer     | Bangalore / Gurgaon | ReactJs, Javascript, Stylus, Css, Html | :heavy_check_mark:       |  ashudeshwal999@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/ashu-deshwal/)  |
+| Shiv Kumar Sharma | Fresher, Looking for MERN Stack Developer Role | Jaipur, India (Ready to relocate) | MERN Stack, Android(Java), Firebase | ✅| kumarshivsharma12@gmail.com <br> [Portfolio](https://shiv-k-sharma.github.io) <br> [LinkedIn](https://www.linkedin.com/in/shiv-k-sharma) |
+| Ashu Deshwal    | Frontend Engineer     | Bangalore / Gurgaon | ReactJs, Javascript, Stylus, Css, Html | ✅       |  ashudeshwal999@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/ashu-deshwal/)  |
 | Shivam Sharma| Full Stack Javascrpit Developer| India |React,ReactNative,Node,Git,Javascript | Remote Friendly |shvmsrma@gmail.com  |
 | Afraz Momin   | Full Stack Javascript Developer | India  | Javascript, React, Node   | Remote friendly    | afraz.momin@gmail.com  |
 | Karan Agrawal | Full-Stack Engineer | Mumbai, India | JavaScript, Python, React, Node, Django, React Native | Remote or Onsite | mr.karanagrawal@gmail.com <br> [Portfolio](https://www.karanagrawal.me) <br> [LinkedIn](https://www.linkedin.com/in/karan28598) |
@@ -97,10 +97,10 @@ Country:
 |Sridhar katta | Full Stack Developer      | Hyderabad India            |  React,Javascript,CSS,HTML,REST and Golang  |On-site, Remote, Relocation           | kattasridhar02@gmail.com [Github](https://github.com/sridhar02) <br> [LinkedIn](https://www.linkedin.com/in/sridhar02) |
 |Saiprasad Balasubramanian|Software Engineer    |Mumbai, India|Python, Flask, Django, SQL, JavaScript, Docker|On-site, Remote, Relocation|sai.cosmo@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/saiprasadbala)|
 | Mehul Patel|Technical Evangelist, DevOps Engineer, Community Manager | Nashik, India |Docker, CI/CD, Kubernetes, Version Control, AWS, GCP, Linux, Tech Speaker | Remote |mehulpofficial@gmail.com <br> [LinkedIn](http://www.linkedin.com/in/rowdymehul) |
-| Shubham Kapoor | Full stack Developer | India |    Angular, Node, Rest, javascript, HTML, CSS, Java Microservice, Spring  |            :heavy_check_mark: | shubhamkapoor9798@gmail.com|
+| Shubham Kapoor | Full stack Developer | India |    Angular, Node, Rest, javascript, HTML, CSS, Java Microservice, Spring  |     ✅ | shubhamkapoor9798@gmail.com|
 | Nirmal Silwal| Python, Deep Learning/ML, Software Engineer |Mumbai, India (open to relocate) | Python, Flask, DeepLearning, Machine Learning, HTML, CSS, Bootstrap, Pytorch, Keras, Linux, Hadoop, AWS |On site, Relocation | nirmaldeepsil.11@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/nirmal-silwal/) |
 |Vishwanath Singh| Front end engineer| Gurgaon, India |Web and mobile apps |Remote or Onsite|+91-8373942818,schumi.offi2124@gmail.com|
-| Chetan Kumar  | Full stack Developer | India | React, Redux, Express, Node, JavaScript, HTML, CSS, GraphQl, Rest API, Jest, Mocha, Boostrap, AWS | :heavy_check_mark: | chetansain86@gmail.com | <br> [LinkedIn](https://www.linkedin.com/in/chetan-kumar86) |
+| Chetan Kumar  | Full stack Developer | India | React, Redux, Express, Node, JavaScript, HTML, CSS, GraphQl, Rest API, Jest, Mocha, Boostrap, AWS | ✅ | chetansain86@gmail.com  <br> [LinkedIn](https://www.linkedin.com/in/chetan-kumar86) |
 | Anil Kumar | Frontend developer | Delhi, India | JavaScript, react.js, html, css | ready to Relocate or remote friendly | mail: mourrrya@gmail.com <br> phone:+917042739391  <br> [LinkedIn](https://www.linkedin.com/in/anil-kumar-520b45118/) |
 | Abhishek Rawat | Front-End Developer | Uttarakhand, India | HTML5, CSS3, SASS/SCSS, JavaScript, Git, Bootstrap, WordPress, Knowledge of ReactJS | Remote(for now) | [Portfolio](https://abhishek-portfolio.netlify.app/) <br> [LinkedIn](https://www.linkedin.com/in/abhishek-rawat-02513417b) <br> [Email](mailto:abhishekrawat5743@gmail.com) <br> [GitHub](https://github.com/abhishekrawat22) |
 | Kushagr Arora | Software Engineer (Front End/Full Stack) | Haryana, India | React.js, Java, Spring Boot, Vanilla JavaScript, HTML5, CSS3 | Open to Remote and on-site| [Email](mailto:kushagrarora.17@gmail.com) |
@@ -110,7 +110,7 @@ Country:
 | Utsav Tiwari | Python Developer | Agra, India | HTML, CSS, Java, Python, DBMS, Cloud Computing | Remote, Open for relocation | souravtiwari27@gmail.com <br> https://github.com/Utsav8126 |
 | Aditya Raj | Software Developer | Bangalore, India | Typescript, JavaScript, React, NodeJS, Electron, MongoDB, Git, HTML, HTML5 Canvas, CSS, SCSS, Tailwind | Remote/Relocate | [LinkedIn](https://www.linkedin.com/in/exploreraadi/) <br> [Email](mailto:rajaditya27145@gmail.com) <br> [Portfolio](https://exploreraadi.vercel.app/) <br> [GitHub](https://github.com/Aadi-27) <br> [Twitter](https://twitter.com/ExplorerAadi) |
 |Aakriti Sharma |Front-End Developer , Software Engineer  |Mumbai, India |HTML, CSS , JS + frameworks , Bootstrap , Python , C | Remote / Relocation | [Email](mailto:aakriti.sharma18@siesgst.ac.in) <br> [Linkedin](https://www.linkedin.com/in/aakriti-sharma-b36a00195/) <br> [GitHub](github.com/aakriti-sharma) [Twitter] (twitter.com/aakriiti_sharma) | 
-|  Shanu Mishra    |App Developer    |  India    | Flutter,Firebase,MySQL    | :heavy_check_mark: | [LinkedIn](https://www.linkedin.com/in/shanu-mishra/) <br /> [Email](mailto:mishra.shanu1515@gmail.com) <br />  [Github](https://github.com/Shanu1515) |
+|  Shanu Mishra    |App Developer    |  India    | Flutter,Firebase,MySQL    | ✅ | [LinkedIn](https://www.linkedin.com/in/shanu-mishra/) <br /> [Email](mailto:mishra.shanu1515@gmail.com) <br />  [Github](https://github.com/Shanu1515) |
 | Prafful Lachhwani | Full Stack Android Developer | Bhopal, India| HTML, CSS, JavaScript, Website deployment, Bootstrap, Android, java, php, mySQL | remote and freelance |  +97587549265 , prafful.lachhwani@gmail.com  https://github.com/prafful98 |
 | Ayushi Rawat | Software Developer | Bangalore, India | Python, C++, HTML, CSS |  Remote | +917000405446    <br> ayushi7rawat@gmail.com   <br> [LinkedIn](https://www.linkedin.com/in/ayushi7rawat/)  <br> [Portfolio](https://ayushirawat.com)  |
 | Prince tanwar |full stack web developer|  india | HTML,css, javascript,react.js,node.js,mongodb,git,github,Heroku,netlify  |  remote and freelance  |email -> ptanwar468@gmail.com linkedin -> https://www.linkedin.com/in/prince-tanwar-6a574a193/ |
@@ -143,7 +143,7 @@ Country:
 |  Soumit Das    |  Full-stack Developer (MERN)    |  Kolkata, India    |  HTML5, CSS3, Javascript, React, Vue, Node.js, Express.js, MongoDB, PostgreSQL, Git, CI/CD |   Remote    |   [Portfolio](https://www.soumitdas.com/) <br /> [Drop an Email](mailto:contact@soumitdas.com) <br /> [Connect on LinkedIn](https://www.linkedin.com/in/soumitdas99/)    |
 | Divyanshu Kumar | Frontend Software Engineer roles| Bangalore,India | ReactJs, Angular, JavaScript, HTML, CSS | Remote / Onsite / Relocation | [LinkedIn](https://www.linkedin.com/in/divyanshu-kr-dubey/) <br /> [Email](mailto:divyanshukumar8984@gmail.com) <br /> [GitHub](https://github.com/BuntyBru) <br /> | 
 |Manushivam  | Front-end Engineer | Am based from Noida, open to work anywhere | Reactjs+Hooks, Redux, Redux-Saga, Angular, Nodejs, React Native, Nodejs, Sass, Html/Css, Cypress | Yes | 9988479897, https://www.linkedin.com/in/manushivam/  https://github.com/Gameosutra|
-|Pulkit Singh |Technical Evangelist / Gsuite Admin / Front End Web Dev / Community Roles |Navi Mumbai, India | Python, Java, AI, Cloud Computing, HTML, CSS, Javascript, Github, Git, Firebase, PHP |:heavy_check_mark: |( Portfolio )[https://PulkitSinghDev.github.io], ( Twitter ) [https://twitter.com/PulkitSinghDev], (Github)[https://github.com/PulkitSinghDev] |
+|Pulkit Singh |Technical Evangelist / Gsuite Admin / Front End Web Dev / Community Roles |Navi Mumbai, India | Python, Java, AI, Cloud Computing, HTML, CSS, Javascript, Github, Git, Firebase, PHP |✅|( Portfolio )[https://PulkitSinghDev.github.io], ( Twitter ) [https://twitter.com/PulkitSinghDev], (Github)[https://github.com/PulkitSinghDev] |
 
 ## Singapore
 
@@ -188,16 +188,16 @@ Country:
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Micheal Daralola Oketunde | Software Developer | Lagos, Nigeria | Vuejs | Remote | +2348028520094 | michaeldaralola123@gmail.com
 |  Emmanuel Adesile       | Frontend Engineer        | Lagos, Nigeria            | ReactJS, React Native, JavaScript, TypeScript, Git, Redux, Node GraphQL, Apollo(server and client), Prisma        | Remote or onsite         |   [Linkedin](https://linkedin.com/in/emmaadesile) <br>  [Email](mailto:emma2adesile@gmail.com) <br> [Github](https://github.com/emmaadesile)        |
-| Isienyi Paschal | Front-End Developer | Abuja, Nigeria| HTML, CSS, JavaScript, WordPress, Website deployment, Bootstrap | +2348063691741 | remote and freelance | candlepeter56@gmail.com | https://github.com/candlepeter |
-| Ude Valentine | Software Department Technical Manager | Enugu, Nigeria | Asp.Net Core, SQL, RDLC, GraphQl, HTML, CSS, ReactJs, Blazor, C#, DevOps | Remote | +2348067486937, (https://linkedin.com/in/ude-valentine)
-| Emmanuel Steve | Front End Developer | Abia Nigeria | React.js Javascript | Remote or onsite | emmanuelsteve43@gmail.com | [Portfolio] (https://talk2coded.dev) |
+| Isienyi Paschal | Front-End Developer | Abuja, Nigeria| HTML, CSS, JavaScript, WordPress, Website deployment, Bootstrap | remote and freelance | +2348063691741 <br> candlepeter56@gmail.com  <br> https://github.com/candlepeter |
+| Ude Valentine | Software Department Technical Manager | Enugu, Nigeria | Asp.Net Core, SQL, RDLC, GraphQl, HTML, CSS, ReactJs, Blazor, C#, DevOps | Remote | +2348067486937, (https://linkedin.com/in/ude-valentine) |
+| Emmanuel Steve | Front End Developer | Abia Nigeria | React.js Javascript | Remote or onsite | emmanuelsteve43@gmail.com <br> [Portfolio] (https://talk2coded.dev) |
 | Damilare Odumosu| Mobile Developer| Lagos, Nigeria (Open to relocation)| Flutter, Kotlin, Java| Remote| [Linkedin](https://www.linkedin.com/in/oluwadamilare-odumosu14/) <br>  [Email](mailto:oluwadamilareodumosu@hotmail.com)|
 
 ## Ghana
 
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
-| Christopher Amanor | Full Stack Developer | Accra, Ghana | <b>Front-End:</b> HTML5, CSS3, SASS, Bootstrap, Bulma, Semantic UI. <br> <b>Back-End:</b> Ruby, Rails, PHP, JavaScript(ES5/ES6), React, Redux. <br> <b>Database:</b> MySQL, PostgreSQL. <br> <b>Testing:</b> RSpec, Capybara, Jest. <br> <b>Tools & Methods:</b> Git, Firebase, Heroku, GitHub Pages, Netlify, Responsive Design, Test Driven Development(TDD), Chrome Dev Tools, Technical Support, Remote Pair-Programming, Teamwork.  | Remote, On-site, Relocation | [Email](mailto:christopher.k.amanor@gmail.com) <br> [LinkedIn](https://www.linkedin.com/in/christopher-amanor/) <br> [GitHub](https://github.com/krys2fa)  <br> [Portfolio](https://krys2fa.github.io)           |
+| Christopher Amanor | Full Stack Developer | Accra, Ghana | <b>Front-End:</b> HTML5, CSS3, SASS, Bootstrap, Bulma, Semantic UI. <br> <b>Back-End:</b> Ruby, Rails, PHP, JavaScript(ES5/ES6), React, Redux. <br> <b>Database:</b> MySQL, PostgreSQL. <br> <b>Testing:</b> RSpec, Capybara, Jest. <br> <b>Tools & Methods:</b> Git, Firebase, Heroku, GitHub Pages, Netlify, Responsive Design, Test Driven Development(TDD), Chrome Dev Tools, Technical Support, Remote Pair-Programming, Teamwork.  | Remote, On-site, Relocation | [Email](mailto:christopher.k.amanor@gmail.com) <br> [LinkedIn](https://www.linkedin.com/in/christopher-amanor/) <br> [GitHub](https://github.com/krys2fa)  <br> [Portfolio](https://krys2fa.github.io)  |
 | Apetsi Kojo Ampiah | Software Developer | Accra, Ghana | HTML5, CSS3, SASS/SCSS, JavaScript, Git, Bootstrap, ReactJS, VueJS, NodeJS, Postgres, MongoDB, GraphQL, Ruby, Rails, Python, Docker | Remote/Relocation | [Portfolio](www.apetsiampiah.com) <br> [LinkedIn](https://www.linkedin.com/in/aapetsi) <br> [Email](mailto:apetsiampiah@gmail.com) <br> [GitHub](https://github.com/aapetsi) |
 
 ## Nepal
