@@ -21,6 +21,8 @@ Here are the steps:
 6. Submit a pull request.
 7. Good luck!
 
+Want to say thank you? [You can help me in keeping this going by becoming a Github sponsor](https://github.com/sponsors/shrutikapoor08/)
+
 ---
 
 Country:
