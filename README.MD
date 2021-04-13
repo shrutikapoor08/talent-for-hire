@@ -149,6 +149,7 @@ Country:
 |Manushivam  | Front-end Engineer | Am based from Noida, open to work anywhere | Reactjs+Hooks, Redux, Redux-Saga, Angular, Nodejs, React Native, Nodejs, Sass, Html/Css, Cypress | Yes | 9988479897, https://www.linkedin.com/in/manushivam/  https://github.com/Gameosutra|
 |Pulkit Singh |Technical Evangelist / Gsuite Admin / Front End Web Dev / Community Roles |Navi Mumbai, India | Python, Java, AI, Cloud Computing, HTML, CSS, Javascript, Github, Git, Firebase, PHP |✅|( Portfolio )[https://PulkitSinghDev.github.io], ( Twitter ) [https://twitter.com/PulkitSinghDev], (Github)[https://github.com/PulkitSinghDev] |
 |Ganesh Deshmukh| Backend Developer | India | Python, Django, Data Structures & Algorithms, Systems Design, High Level + Low Level Design, JavaScript, Git, React-Native, NodeJs| Yes | ganeshdeshmukh1612@gmail.com|
+|Bhupesh Varshney| Software Engineer / Backend Developer | Delhi, India | Python, Go, Django, Flask, JavaScript, Microservices, CI/CD, Docker, Git, SQL, REST | Yes | [Web](https://bhupesh-v.github.io) - [LinkedIn](https://www.linkedin.com/in/bhupesh-v/) - [Email](mailto:varshneybhupesh@gmail.com) - [GitHub](https://github.com/Bhupesh-V) |
 
 
 ## Singapore
