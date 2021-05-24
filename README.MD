@@ -151,7 +151,7 @@ Country:
 |Ganesh Deshmukh| Backend Developer | India | Python, Django, Data Structures & Algorithms, Systems Design, High Level + Low Level Design, JavaScript, Git, React-Native, NodeJs| Yes | ganeshdeshmukh1612@gmail.com|
 |Bhupesh Varshney| Software Engineer / Backend Developer | Delhi, India | Python, Go, Django, Flask, JavaScript, Microservices, CI/CD, Docker, Git, SQL, REST | Yes | [Web](https://bhupesh-v.github.io) - [LinkedIn](https://www.linkedin.com/in/bhupesh-v/) - [Email](mailto:varshneybhupesh@gmail.com) - [GitHub](https://github.com/Bhupesh-V) |
 |Samarth Pralhad Nehe |MERN Stack Web Developer |Indore,India |ReactJS, NodeJS, MongoDB, ExpressJS, Figma, Firebase, NextJS | Remote|[Linkedin](https://www.linkedin.com/in/samarth-nehe-a0b9b519b/) <br /> [Email](mailto:samarthnehe2000@gmail.com)<br />[Github](https://github.com/Samarthnehe)|
-
+|Shubham Singh| Frontend Developer / Fullstack Developer | Pune, India | HTML, CSS, SASS/SCSS, Javascript, Angular2+, ReactJS, TailwindCSS, Bootstrap, Material UI, CSS-in-JS, D3, Charts.js, NodeJS, MongoDB, Redis, Socket.io, RESTful API's | Remote / On Site | [Email](mailto:shubhsingh01@gmail.com) &ndash; [Github](https://github.com/shubh0107) &ndash; [LinkedIn](https://www.linkedin.com/in/shubhsingh01/) &ndash; [Resume](https://shubh0107.github.io/) |
 
 ## Singapore
 
