@@ -237,3 +237,11 @@ Country:
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Odiso Edim    |  Full-Stack Web Developer    |  Port louis, Mauritius    | PHP/Javascript/Node.js/React/Redux/GraphQL    | Remote friendly!    | [Email](mailto:hello@odiso.dev)    <br> [Portfolio](www.odiso.dev) <br>  [LinkedIn](https://linkedin.com/in/odisoedim/) |
+
+
+## [Spain](#Spain)
+
+
+|  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
+| ------------- |-------------| -----| ------------- |-------------| -----|
+| Claudia Brasca   |  Developer and HelpDesk Trainee  |  Spain (open to relocate)  | Learning: Python / MySQL  / HTML / Django  | Remote friendly!    | [Email](mailto:claudiapbrasca@gmail.com)    <br> [Portfolio](cutt.ly/WnijxML) <br>  [LinkedIn](https://linkedin.com/in/claudiabrasca/) |
