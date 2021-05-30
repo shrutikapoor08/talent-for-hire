@@ -27,7 +27,6 @@ Want to say thank you? [You can help me in keeping this going by becoming a Gith
 
 Country:
 
-- [Looking for a job during COVID pandemic sucks!](#looking-for-a-job-during-covid-pandemic-sucks)
   - [USA](#usa)
   - [Canada](#canada)
   - [India](#india)
