@@ -10,7 +10,8 @@ this talent list. There are no strings attached and there is no catch. This is n
 use your email for anything other than the purpose stated above.
 
 _Just trying to do my best to help out. Wish you best of luck with your job search!_
-Want to say thank you? [You can help me in keeping this going by becoming a Github sponsor](https://github.com/sponsors/shrutikapoor08/)
+
+Want to support me? [You can help me in keeping this going by becoming a Github sponsor](https://github.com/sponsors/shrutikapoor08/)
 
 Here are the steps for adding yourself:
 
