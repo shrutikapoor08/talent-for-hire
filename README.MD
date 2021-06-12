@@ -75,6 +75,7 @@ Country:
 | Mikkel Ridley    |  Frontend Engineer    |  Bay Area, CA    | HTML/CSS/JS/Liquid/Shopify/Node.js/Express/React    | Remote friendly!    | mikkel250@gmail.com <br> [LinkedIn](https://linkedin.com/in/mikkelridley/)   |
 | Adrian Grimm | Front-End Developer | Massillon, OH | JavaScript, React, Gatsby, HTML, CSS |  Remote / On-Site | [Portfolio](https://adriangrimm.com) <br> [Email](mailto:usmcamgrimm@gmail.com) <br> [Twitter](https://twitter.com/usmcamgrimm) <br> [Github](https://github.com/usmcamgrimm) |
 | Emmett Naughton | Full-Stack Developer | Plattsburgh, NY | NodeJs, Express, React, Gulp, Git, SQL, Deploying to Netlify and Heroku | Remote  | [LinkedIn](https://www.linkedin.com/in/emmett-naughton/) <br> Email: Hi@emmettnaughton.com  |
+| Jen Kennedy | Frontend Developer | Seattle, WA | TypeScript, React, JavaScript, Redux, Jest, GraphQL | On-site or Remote | [Website](https://www.jenkens.dev/) <br /> [Github](https://github.com/jenkens-dev) <br /> [LinkedIn](https://www.linkedin.com/in/jenkens/)|
 
 
 ## Canada
