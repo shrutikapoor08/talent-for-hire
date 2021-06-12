@@ -11,7 +11,10 @@ use your email for anything other than the purpose stated above.
 
 _Just trying to do my best to help out. Wish you best of luck with your job search!_
 
-Here are the steps:
+Did this repo help you? [Support me by becoming a Github sponsor](https://github.com/sponsors/shrutikapoor08/). Your support helps me help others.❤️
+
+
+## Steps to add yourself to this repo
 
 1. Click on "Fork" in the top right corner.
 2. Open `README.MD` and edit the file.
@@ -21,7 +24,6 @@ Here are the steps:
 6. Submit a pull request.
 7. Good luck!
 
-Want to say thank you? [You can help me in keeping this going by becoming a Github sponsor](https://github.com/sponsors/shrutikapoor08/)
 
 ---
 
@@ -74,6 +76,7 @@ Country:
 | Adrian Grimm | Front-End Developer | Massillon, OH | JavaScript, React, Gatsby, HTML, CSS |  Remote / On-Site | [Portfolio](https://adriangrimm.com) <br> [Email](mailto:usmcamgrimm@gmail.com) <br> [Twitter](https://twitter.com/usmcamgrimm) <br> [Github](https://github.com/usmcamgrimm) |
 | Emmett Naughton | Full-Stack Developer | Plattsburgh, NY | NodeJs, Express, React, Gulp, Git, SQL, Deploying to Netlify and Heroku | Remote  | [LinkedIn](https://www.linkedin.com/in/emmett-naughton/) <br> Email: Hi@emmettnaughton.com  |
 | Quinn Lashinsky | Frontend Developer | New York, NY | HTML, CSS, JS, React, Next.js, Node.js, Git, SQL, Postgres, TailwindCSS, SASS, GraphQL, Cypress | Remote, Relocate, Onsite | Email - quinnlashinsky@gmail.com <br /> [LinkedIn](https://www.linkedin.com/in/quinnlashinsky/)<br /> [Github](https://github.com/QMaximillian) <br /> [DEV](https://dev.to/qmaximillian)|
+| Jen Kennedy | Frontend Developer | Seattle, WA | TypeScript, React, JavaScript, Redux, Jest, GraphQL | On-site or Remote | [Website](https://www.jenkens.dev/) <br /> [Github](https://github.com/jenkens-dev) <br /> [LinkedIn](https://www.linkedin.com/in/jenkens/)|
 
 ## Canada
 
@@ -150,7 +153,9 @@ Country:
 |Pulkit Singh |Technical Evangelist / Gsuite Admin / Front End Web Dev / Community Roles |Navi Mumbai, India | Python, Java, AI, Cloud Computing, HTML, CSS, Javascript, Github, Git, Firebase, PHP |✅|( Portfolio )[https://PulkitSinghDev.github.io], ( Twitter ) [https://twitter.com/PulkitSinghDev], (Github)[https://github.com/PulkitSinghDev] |
 |Ganesh Deshmukh| Backend Developer | India | Python, Django, Data Structures & Algorithms, Systems Design, High Level + Low Level Design, JavaScript, Git, React-Native, NodeJs| Yes | ganeshdeshmukh1612@gmail.com|
 |Bhupesh Varshney| Software Engineer / Backend Developer | Delhi, India | Python, Go, Django, Flask, JavaScript, Microservices, CI/CD, Docker, Git, SQL, REST | Yes | [Web](https://bhupesh-v.github.io) - [LinkedIn](https://www.linkedin.com/in/bhupesh-v/) - [Email](mailto:varshneybhupesh@gmail.com) - [GitHub](https://github.com/Bhupesh-V) |
-
+|Samarth Pralhad Nehe |MERN Stack Web Developer |Indore,India |ReactJS, NodeJS, MongoDB, ExpressJS, Figma, Firebase, NextJS | Remote|[Linkedin](https://www.linkedin.com/in/samarth-nehe-a0b9b519b/) <br /> [Email](mailto:samarthnehe2000@gmail.com)<br />[Github](https://github.com/Samarthnehe)|
+|Shubham Singh| Frontend Developer / Fullstack Developer | Pune, India | HTML, CSS, SASS/SCSS, Javascript, Angular2+, ReactJS, TailwindCSS, Bootstrap, Material UI, CSS-in-JS, D3, Charts.js, NodeJS, MongoDB, Redis, Socket.io, RESTful API's | Remote / On Site | [Email](mailto:shubhsingh01@gmail.com) &ndash; [Github](https://github.com/shubh0107) &ndash; [LinkedIn](https://www.linkedin.com/in/shubhsingh01/) &ndash; [Resume](https://shubh0107.github.io/) |
+|Jaspreet Singh| Frontend/UI Developer | India | HTML, CSS, SASS/SCSS, Javascript, React, Redux, Java | Remote / On Site | [Portfolio](https://jaspreetportfolio.netlify.app/)-[Resume](https://jaspreetresume.netlify.app/)-[Email](mailto:jaspreet98singh@gmail.com)-[Github](https://github.com/jaspreet22g)-[LinkedIn](https://www.linkedin.com/in/jaspreet22g/) |
 
 ## Singapore
 
