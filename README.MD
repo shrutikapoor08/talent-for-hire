@@ -45,6 +45,7 @@ Country:
 - [Portugal](#Portugal)
 - [Italy](#Italy)
 - [Mauritius](#Mauritius)
+- [Brazil](#Brazil)
 
 ---
 
@@ -241,3 +242,8 @@ Country:
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Odiso Edim    |  Full-Stack Web Developer    |  Port louis, Mauritius    | PHP/Javascript/Node.js/React/Redux/GraphQL    | Remote friendly!    | [Email](mailto:hello@odiso.dev)    <br> [Portfolio](www.odiso.dev) <br>  [LinkedIn](https://linkedin.com/in/odisoedim/) |
+
+## [Brazil](#Brazil)
+|  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
+| ------------- |-------------| -----| ------------- |-------------| -----|
+| Marcelo Leite | Web Developer/Designer | São Lourenço, MG | Agile, Front-End, Javascript, jQuery, CSS Animations, SVG, Modern Web, Babel, Gulp, WPO, APIs, PHP CMS, MySQL, ReactJS, React Native, GraphQL, fast learner.. | Remote, Relocation, On-site | [LinkedIn](https://linkedin.com/in/marceloleitemt/) <br /> [Github](https://github.com/marceloleitemt/) <br /> [Portfolio-Resume](https://www.mleite.com.br/resume/)|
