@@ -10,8 +10,9 @@ this talent list. There are no strings attached and there is no catch. This is n
 use your email for anything other than the purpose stated above.
 
 _Just trying to do my best to help out. Wish you best of luck with your job search!_
+Want to say thank you? [You can help me in keeping this going by becoming a Github sponsor](https://github.com/sponsors/shrutikapoor08/)
 
-Here are the steps:
+Here are the steps for adding yourself:
 
 1. Click on "Fork" in the top right corner.
 2. Open `README.MD` and edit the file.
@@ -21,7 +22,6 @@ Here are the steps:
 6. Submit a pull request.
 7. Good luck!
 
-Want to say thank you? [You can help me in keeping this going by becoming a Github sponsor](https://github.com/sponsors/shrutikapoor08/)
 
 ---
 
