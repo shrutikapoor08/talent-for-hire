@@ -29,22 +29,22 @@ Did this repo help you? [Support me by becoming a Github sponsor](https://github
 
 Country:
 
-- [USA](#USA)
-- [Canada](#Canada)
-- [India](#India)
-- [Singapore](#Singapore)
-- [Bangladesh](#Bangladesh)
-- [United Kingdom](#United-Kingdom)
-- [Pakistan](#Pakistan)
-- [China](#China)
-- [Sri Lanka](#Sri-Lanka)
-- [Nigeria](#Nigeria)
-- [Ghana](#Ghana)
-- [Nepal](#Nepal)
-- [Australia](#Australia)
-- [Portugal](#Portugal)
-- [Italy](#Italy)
-- [Mauritius](#Mauritius)
+  - [USA](#usa)
+  - [Canada](#canada)
+  - [India](#india)
+  - [Singapore](#singapore)
+  - [Bangladesh](#bangladesh)
+  - [United Kingdom](#united-kingdom)
+  - [Pakistan](#pakistan)
+  - [China](#china)
+  - [Sri Lanka](#sri-lanka)
+  - [Nigeria](#nigeria)
+  - [Ghana](#ghana)
+  - [Nepal](#nepal)
+  - [Australia](#australia)
+  - [Portugal](#portugal)
+  - [Italy](#italy)
+  - [Mauritius](#mauritius)
 
 ---
 
@@ -204,6 +204,7 @@ Country:
 | Ude Valentine | Software Department Technical Manager | Enugu, Nigeria | Asp.Net Core, SQL, RDLC, GraphQl, HTML, CSS, ReactJs, Blazor, C#, DevOps | Remote | +2348067486937, (https://linkedin.com/in/ude-valentine) |
 | Emmanuel Steve | Front End Developer | Abia Nigeria | React.js Javascript | Remote or onsite | emmanuelsteve43@gmail.com <br> [Portfolio] (https://talk2coded.dev) |
 | Damilare Odumosu| Mobile Developer| Lagos, Nigeria (Open to relocation)| Flutter, Kotlin, Java| Remote| [Linkedin](https://www.linkedin.com/in/oluwadamilare-odumosu14/) <br>  [Email](mailto:oluwadamilareodumosu@hotmail.com)|
+| Rowland Adimoha | Front-End Developer  | Lagos, Nigeria| ReactJS,  JavaScript, Git, Redux  |Remote or onsite | [Linkedin](https://www.linkedin.com/in/rowland-adimoha-13669b154/) <br>  [Email](mailto:rowlives@gmail.com) <br> [Github](https://github.com/rowjay007)|
 
 ## Ghana
 
