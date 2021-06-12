@@ -13,7 +13,8 @@ _Just trying to do my best to help out. Wish you best of luck with your job sear
 
 Did this repo help you? [Support me by becoming a Github sponsor](https://github.com/sponsors/shrutikapoor08/). Your support helps me help others.❤️
 
-Here are the steps for adding yourself:
+
+## Steps to add yourself to this repo
 
 1. Click on "Fork" in the top right corner.
 2. Open `README.MD` and edit the file.
