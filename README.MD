@@ -181,6 +181,7 @@ Country:
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Tashfeen Rao | Full-Stack Developer | Pakistan | React, Redux, Javascript, Rails, Rest API, TDD, Heroku, Netlify | will work           | raotashfeen25@gmail.com <br> [linkedIn](https://www.linkedin.com/in/tashfeen-rao/) |
 | Ali Karani | Flutter Developer/Open source Contributor | Karachi, Pakistan | Flutter, Firebase, MERN STACK |Remote/ Relocate|+923042054458<br />[LinkedIn](https://www.linkedin.com/in/aliasgharkarani/) <br /> [Email](mailto:aliasgharkarani125@hotmail.com) <br /> [Github](https://github.com/alikarani) |
+|Mujtaba Abid |Shopify Front End Developer |Islamabad, Pakistan |HTML, CSS, Liquid, JavaScript, WordPress, Elementor | Remote prefer |[LinkedIn](https://www.linkedin.com/in/mujtaba-abid-032337107/) <br /> [Email](mailto:mujtabaabidi88@gmail.com) |
 
 ## China
 
