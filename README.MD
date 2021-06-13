@@ -157,6 +157,7 @@ Country:
 |Shubham Singh| Frontend Developer / Fullstack Developer | Pune, India | HTML, CSS, SASS/SCSS, Javascript, Angular2+, ReactJS, TailwindCSS, Bootstrap, Material UI, CSS-in-JS, D3, Charts.js, NodeJS, MongoDB, Redis, Socket.io, RESTful API's | Remote / On Site | [Email](mailto:shubhsingh01@gmail.com) &ndash; [Github](https://github.com/shubh0107) &ndash; [LinkedIn](https://www.linkedin.com/in/shubhsingh01/) &ndash; [Resume](https://shubh0107.github.io/) |
 |Jaspreet Singh| Frontend/UI Developer | India | HTML, CSS, SASS/SCSS, Javascript, React, Redux, Java | Remote / On Site | [Portfolio](https://jaspreetportfolio.netlify.app/)-[Resume](https://jaspreetresume.netlify.app/)-[Email](mailto:jaspreet98singh@gmail.com)-[Github](https://github.com/jaspreet22g)-[LinkedIn](https://www.linkedin.com/in/jaspreet22g/) |
 |Dipali Walke |Fullstack Devekoper | Pune, India |Angular7, 8, 9 , Web API, Asp.net MVC, Sql server  |Remote |[Email](mailto:dipaliwalke5@gmail.com)<br/> [LinkedIn](https://www.linkedin.com/in/dipali-walke-92869330) |
+| Pawan Jain    | Full Stack Developer   | Bangalore / Gurgaon / Hyderabad | ReactJs, NodeJS, Angular, NestJS | ✅ | [LinkedIn](https://www.linkedin.com/in/jainpawan21/)  |
 
 ## Singapore
 
@@ -182,6 +183,7 @@ Country:
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Tashfeen Rao | Full-Stack Developer | Pakistan | React, Redux, Javascript, Rails, Rest API, TDD, Heroku, Netlify | will work           | raotashfeen25@gmail.com <br> [linkedIn](https://www.linkedin.com/in/tashfeen-rao/) |
 | Ali Karani | Flutter Developer/Open source Contributor | Karachi, Pakistan | Flutter, Firebase, MERN STACK |Remote/ Relocate|+923042054458<br />[LinkedIn](https://www.linkedin.com/in/aliasgharkarani/) <br /> [Email](mailto:aliasgharkarani125@hotmail.com) <br /> [Github](https://github.com/alikarani) |
+|Mujtaba Abid |Shopify Front End Developer |Islamabad, Pakistan |HTML, CSS, Liquid, JavaScript, WordPress, Elementor | Remote prefer |[LinkedIn](https://www.linkedin.com/in/mujtaba-abid-032337107/) <br /> [Email](mailto:mujtabaabidi88@gmail.com) |
 
 ## China
 
