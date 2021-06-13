@@ -156,6 +156,7 @@ Country:
 |Samarth Pralhad Nehe |MERN Stack Web Developer |Indore,India |ReactJS, NodeJS, MongoDB, ExpressJS, Figma, Firebase, NextJS | Remote|[Linkedin](https://www.linkedin.com/in/samarth-nehe-a0b9b519b/) <br /> [Email](mailto:samarthnehe2000@gmail.com)<br />[Github](https://github.com/Samarthnehe)|
 |Shubham Singh| Frontend Developer / Fullstack Developer | Pune, India | HTML, CSS, SASS/SCSS, Javascript, Angular2+, ReactJS, TailwindCSS, Bootstrap, Material UI, CSS-in-JS, D3, Charts.js, NodeJS, MongoDB, Redis, Socket.io, RESTful API's | Remote / On Site | [Email](mailto:shubhsingh01@gmail.com) &ndash; [Github](https://github.com/shubh0107) &ndash; [LinkedIn](https://www.linkedin.com/in/shubhsingh01/) &ndash; [Resume](https://shubh0107.github.io/) |
 |Jaspreet Singh| Frontend/UI Developer | India | HTML, CSS, SASS/SCSS, Javascript, React, Redux, Java | Remote / On Site | [Portfolio](https://jaspreetportfolio.netlify.app/)-[Resume](https://jaspreetresume.netlify.app/)-[Email](mailto:jaspreet98singh@gmail.com)-[Github](https://github.com/jaspreet22g)-[LinkedIn](https://www.linkedin.com/in/jaspreet22g/) |
+|Dipali Walke |Fullstack Devekoper | Pune, India |Angular7, 8, 9 , Web API, Asp.net MVC, Sql server  |Remote |[Email](mailto:dipaliwalke5@gmail.com)<br/> [LinkedIn](https://www.linkedin.com/in/dipali-walke-92869330) |
 
 ## Singapore
 
