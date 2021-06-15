@@ -158,6 +158,7 @@ Country:
 |Jaspreet Singh| Frontend/UI Developer | India | HTML, CSS, SASS/SCSS, Javascript, React, Redux, Java | Remote / On Site | [Portfolio](https://jaspreetportfolio.netlify.app/)-[Resume](https://jaspreetresume.netlify.app/)-[Email](mailto:jaspreet98singh@gmail.com)-[Github](https://github.com/jaspreet22g)-[LinkedIn](https://www.linkedin.com/in/jaspreet22g/) |
 |Dipali Walke |Fullstack Devekoper | Pune, India |Angular7, 8, 9 , Web API, Asp.net MVC, Sql server  |Remote |[Email](mailto:dipaliwalke5@gmail.com)<br/> [LinkedIn](https://www.linkedin.com/in/dipali-walke-92869330) |
 | Pawan Jain    | Full Stack Developer   | Bangalore / Gurgaon / Hyderabad | ReactJs, NodeJS, Angular, NestJS | ✅ | [LinkedIn](https://www.linkedin.com/in/jainpawan21/)  |
+|Neha Lakma |Frontend developer| India | ReactJs, VanillaJs, Firebase, SaaS, Styled-Components, Material-UI | Onsite/Remote| [Email](mailto:lakma.neha@gmail.com)<br/>[LinkedIn](https://www.linkedin.com/in/neha-lakma-b5436b1b0/) <br/> [Portfolio](https://neha-lakma-portfolio.netlify.app/)  |
 
 ## Singapore
 
