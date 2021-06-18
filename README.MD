@@ -78,6 +78,10 @@ Country:
 | Quinn Lashinsky | Frontend Developer | New York, NY | HTML, CSS, JS, React, Next.js, Node.js, Git, SQL, Postgres, TailwindCSS, SASS, GraphQL, Cypress | Remote, Relocate, Onsite | Email - quinnlashinsky@gmail.com <br /> [LinkedIn](https://www.linkedin.com/in/quinnlashinsky/)<br /> [Github](https://github.com/QMaximillian) <br /> [DEV](https://dev.to/qmaximillian)|
 | Jen Kennedy | Frontend Developer | Seattle, WA | TypeScript, React, JavaScript, Redux, Jest, GraphQL | On-site or Remote | [Website](https://www.jenkens.dev/) <br /> [Github](https://github.com/jenkens-dev) <br /> [LinkedIn](https://www.linkedin.com/in/jenkens/)|
 
+|Caitlyn Miley | Frontend Developer | Dallas, Tx | Javascript, React, HTML, Node, CSS, Bootstrap, Git | Remote | [website](https://caitlynmiley.com) <br /> [Github](https://github.com/smilleeymilleey) <br /> [Linkedin](https://www.linkedin.com/in/caitlynmiley/) <br /> [twitter](https://twitter.com/smilleymilleey)| 
+
+
+
 ## Canada
 
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
