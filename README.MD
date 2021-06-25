@@ -163,6 +163,7 @@ Country:
 |Dipali Walke |Fullstack Devekoper | Pune, India |Angular7, 8, 9 , Web API, Asp.net MVC, Sql server  |Remote |[Email](mailto:dipaliwalke5@gmail.com)<br/> [LinkedIn](https://www.linkedin.com/in/dipali-walke-92869330) |
 | Pawan Jain    | Full Stack Developer   | Bangalore / Gurgaon / Hyderabad | ReactJs, NodeJS, Angular, NestJS | ✅ | [LinkedIn](https://www.linkedin.com/in/jainpawan21/)  |
 |Neha Lakma |Frontend developer| India | ReactJs, VanillaJs, Firebase, SaaS, Styled-Components, Material-UI | Onsite/Remote| [Email](mailto:lakma.neha@gmail.com)<br/>[LinkedIn](https://www.linkedin.com/in/neha-lakma-b5436b1b0/) <br/> [Portfolio](https://neha-lakma-portfolio.netlify.app/)  |
+|Abhishek Sunil | Frontend/UI Developer| India| React, JavaScript, HTML, CSS, MongoDB, Node.js, Express.js, GraphQL, Next.js|On-site, Remote, Relocation | abhisheksunil92@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/abhishek-2201/)|
 
 ## Singapore
 
