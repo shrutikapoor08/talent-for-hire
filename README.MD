@@ -11,7 +11,10 @@ use your email for anything other than the purpose stated above.
 
 _Just trying to do my best to help out. Wish you best of luck with your job search!_
 
-Here are the steps:
+Did this repo help you? [Support me by becoming a Github sponsor](https://github.com/sponsors/shrutikapoor08/). Your support helps me help others.❤️
+
+
+## Steps to add yourself to this repo
 
 1. Click on "Fork" in the top right corner.
 2. Open `README.MD` and edit the file.
@@ -21,7 +24,6 @@ Here are the steps:
 6. Submit a pull request.
 7. Good luck!
 
-Want to say thank you? [You can help me in keeping this going by becoming a Github sponsor](https://github.com/sponsors/shrutikapoor08/)
 
 ---
 
@@ -43,6 +45,7 @@ Country:
 - [Portugal](#Portugal)
 - [Italy](#Italy)
 - [Mauritius](#Mauritius)
+- [Brazil](#Brazil)
 
 ---
 
@@ -69,10 +72,14 @@ Country:
 | Hulya Karakaya | Front-End Developer/React Developer        |Seattle, US | React, Redux, Node, Express, Sass, HTML, CSS, Firebase, MongoDB, SQL, Python | Remote / Contract | [LinkedIn](https://www.linkedin.com/in/hulya-karakaya/) <br /> [Email](mailto:hulyakarakayaa06@gmail.com) <br /> [Portfolio](https://hulya.netlify.app/) <br /> [Github](https://github.com/hulyak)           |
 | Lucia Cerchie | Fullstack Software Developer | Arizona | JavaScript, React, NodeJS, Express, Git, SQL, Python, HTML5, CSS |  On-site/Remote | [Portfolio](https://luciacerchie.dev/) <br> [Github](https://github.com/Cerchie) <br> [Twitter](https://twitter.com/CerchieLucia) <br> [DEV](https://dev.to/cerchie) |
 | Garrett Gerdsen | Ruby on Rails Developer | Denver, Colorado | Ruby on Rails, Node.js, REST APIs, OOP, ActiveRecord, Test Driven Development, Behavior Driven Development, APIs, CRUD, RESTful Development, RSpec, PostgreSQL, SQL, GraphQL, Javascript, Node, JSON, HTML, CSS, App Deployments, CapyBara, Heroku, Sinatra, Git | On site or Remote | <br> [Email](mailto:garrett.gerdsen@gmail.com) <br> [LinkedIn](https://www.linkedin.com/in/ggerdsen/) <br> [github](https://github.com/ggerdsen) |
-| Amy Shackles | Full-stack Software Developer | Seattle, Washington | Accessibility, React, Redux, JavaScript, HTML/CSS, React Testing Library, Jest, Node.js, Express.js, MongoDB, Mocha, Chai, REST, GraphQL, Git, Netlify, Heroku, Docker, Docker Compose | Remote experienced | [Website](https://amyshackles.com) <br/> [Email](mailto:amyshackles@gmail.com)<br/>[LinkedIn](https://linkedin.com/in/AmyShackles)<br/>[Github](https://github.com/AmyShackles)|
 | Mikkel Ridley    |  Frontend Engineer    |  Bay Area, CA    | HTML/CSS/JS/Liquid/Shopify/Node.js/Express/React    | Remote friendly!    | mikkel250@gmail.com <br> [LinkedIn](https://linkedin.com/in/mikkelridley/)   |
 | Adrian Grimm | Front-End Developer | Massillon, OH | JavaScript, React, Gatsby, HTML, CSS |  Remote / On-Site | [Portfolio](https://adriangrimm.com) <br> [Email](mailto:usmcamgrimm@gmail.com) <br> [Twitter](https://twitter.com/usmcamgrimm) <br> [Github](https://github.com/usmcamgrimm) |
 | Emmett Naughton | Full-Stack Developer | Plattsburgh, NY | NodeJs, Express, React, Gulp, Git, SQL, Deploying to Netlify and Heroku | Remote  | [LinkedIn](https://www.linkedin.com/in/emmett-naughton/) <br> Email: Hi@emmettnaughton.com  |
+| Quinn Lashinsky | Frontend Developer | New York, NY | HTML, CSS, JS, React, Next.js, Node.js, Git, SQL, Postgres, TailwindCSS, SASS, GraphQL, Cypress | Remote, Relocate, Onsite | Email - quinnlashinsky@gmail.com <br /> [LinkedIn](https://www.linkedin.com/in/quinnlashinsky/)<br /> [Github](https://github.com/QMaximillian) <br /> [DEV](https://dev.to/qmaximillian)|
+| Jen Kennedy | Frontend Developer | Seattle, WA | TypeScript, React, JavaScript, Redux, Jest, GraphQL | On-site or Remote | [Website](https://www.jenkens.dev/) <br /> [Github](https://github.com/jenkens-dev) <br /> [LinkedIn](https://www.linkedin.com/in/jenkens/)|
+
+|Caitlyn Miley | Frontend Developer | Dallas, Tx | Javascript, React, HTML, Node, CSS, Bootstrap, Git | Remote | [website](https://caitlynmiley.com) <br /> [Github](https://github.com/smilleeymilleey) <br /> [Linkedin](https://www.linkedin.com/in/caitlynmiley/) <br /> [twitter](https://twitter.com/smilleymilleey)| 
+
 
 
 ## Canada
@@ -152,6 +159,10 @@ Country:
 |Bhupesh Varshney| Software Engineer / Backend Developer | Delhi, India | Python, Go, Django, Flask, JavaScript, Microservices, CI/CD, Docker, Git, SQL, REST | Yes | [Web](https://bhupesh-v.github.io) - [LinkedIn](https://www.linkedin.com/in/bhupesh-v/) - [Email](mailto:varshneybhupesh@gmail.com) - [GitHub](https://github.com/Bhupesh-V) |
 |Samarth Pralhad Nehe |MERN Stack Web Developer |Indore,India |ReactJS, NodeJS, MongoDB, ExpressJS, Figma, Firebase, NextJS | Remote|[Linkedin](https://www.linkedin.com/in/samarth-nehe-a0b9b519b/) <br /> [Email](mailto:samarthnehe2000@gmail.com)<br />[Github](https://github.com/Samarthnehe)|
 |Shubham Singh| Frontend Developer / Fullstack Developer | Pune, India | HTML, CSS, SASS/SCSS, Javascript, Angular2+, ReactJS, TailwindCSS, Bootstrap, Material UI, CSS-in-JS, D3, Charts.js, NodeJS, MongoDB, Redis, Socket.io, RESTful API's | Remote / On Site | [Email](mailto:shubhsingh01@gmail.com) &ndash; [Github](https://github.com/shubh0107) &ndash; [LinkedIn](https://www.linkedin.com/in/shubhsingh01/) &ndash; [Resume](https://shubh0107.github.io/) |
+|Jaspreet Singh| Frontend/UI Developer | India | HTML, CSS, SASS/SCSS, Javascript, React, Redux, Java | Remote / On Site | [Portfolio](https://jaspreetportfolio.netlify.app/)-[Resume](https://jaspreetresume.netlify.app/)-[Email](mailto:jaspreet98singh@gmail.com)-[Github](https://github.com/jaspreet22g)-[LinkedIn](https://www.linkedin.com/in/jaspreet22g/) |
+|Dipali Walke |Fullstack Devekoper | Pune, India |Angular7, 8, 9 , Web API, Asp.net MVC, Sql server  |Remote |[Email](mailto:dipaliwalke5@gmail.com)<br/> [LinkedIn](https://www.linkedin.com/in/dipali-walke-92869330) |
+| Pawan Jain    | Full Stack Developer   | Bangalore / Gurgaon / Hyderabad | ReactJs, NodeJS, Angular, NestJS | ✅ | [LinkedIn](https://www.linkedin.com/in/jainpawan21/)  |
+|Neha Lakma |Frontend developer| India | ReactJs, VanillaJs, Firebase, SaaS, Styled-Components, Material-UI | Onsite/Remote| [Email](mailto:lakma.neha@gmail.com)<br/>[LinkedIn](https://www.linkedin.com/in/neha-lakma-b5436b1b0/) <br/> [Portfolio](https://neha-lakma-portfolio.netlify.app/)  |
 
 ## Singapore
 
@@ -177,6 +188,7 @@ Country:
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Tashfeen Rao | Full-Stack Developer | Pakistan | React, Redux, Javascript, Rails, Rest API, TDD, Heroku, Netlify | will work           | raotashfeen25@gmail.com <br> [linkedIn](https://www.linkedin.com/in/tashfeen-rao/) |
 | Ali Karani | Flutter Developer/Open source Contributor | Karachi, Pakistan | Flutter, Firebase, MERN STACK |Remote/ Relocate|+923042054458<br />[LinkedIn](https://www.linkedin.com/in/aliasgharkarani/) <br /> [Email](mailto:aliasgharkarani125@hotmail.com) <br /> [Github](https://github.com/alikarani) |
+|Mujtaba Abid |Shopify Front End Developer |Islamabad, Pakistan |HTML, CSS, Liquid, JavaScript, WordPress, Elementor | Remote prefer |[LinkedIn](https://www.linkedin.com/in/mujtaba-abid-032337107/) <br /> [Email](mailto:mujtabaabidi88@gmail.com) |
 
 ## China
 
@@ -238,10 +250,14 @@ Country:
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Odiso Edim    |  Full-Stack Web Developer    |  Port louis, Mauritius    | PHP/Javascript/Node.js/React/Redux/GraphQL    | Remote friendly!    | [Email](mailto:hello@odiso.dev)    <br> [Portfolio](www.odiso.dev) <br>  [LinkedIn](https://linkedin.com/in/odisoedim/) |
 
-
 ## [Spain](#Spain)
-
 
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Claudia Brasca   |  Developer and HelpDesk Trainee  |  Spain (open to relocate)  | Learning: Python / MySQL  / HTML / Django  | Remote friendly!    | [Email](mailto:claudiapbrasca@gmail.com)    <br> [Portfolio](cutt.ly/WnijxML) <br>  [LinkedIn](https://linkedin.com/in/claudiabrasca/) |
+
+## [Brazil](#Brazil)
+|  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
+| ------------- |-------------| -----| ------------- |-------------| -----|
+| Marcelo Leite | Web Developer/Designer | São Lourenço, MG | Agile, Front-End, Javascript, jQuery, CSS Animations, SVG, Modern Web, Babel, Gulp, WPO, APIs, PHP CMS, MySQL, ReactJS, React Native, GraphQL, fast learner.. | Remote, Relocation, On-site | [LinkedIn](https://linkedin.com/in/marceloleitemt/) <br /> [Github](https://github.com/marceloleitemt/) <br /> [Portfolio-Resume](https://www.mleite.com.br/resume/)|
+
