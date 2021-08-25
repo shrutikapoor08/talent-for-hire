@@ -174,6 +174,7 @@ Country:
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
 |  Shohel Rana    |  Frontend Developer   |  Bangladesh  | React,Angular,MongoDb,NodeJs,C#,AI |  Relocate  | iamshohelrana@gmail.com |
+|  Sajib Hawee    |  Frontend Engineer   |  Bangladesh  | React/Redux, Angular/RxJs, Vue/Vuex, Electron, Typescript, MongoDb, Git, GraphQL, REST |  Relocate  | [Github](https://github.com/haweecodes)<br />[LinkedIn](https://www.linkedin.com/in/sajib-hawee-2a818b154/)<br /> [Email]haweesajib10@gmail.com |
 
 ## United Kingdom
 
