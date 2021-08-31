@@ -78,7 +78,7 @@ Country:
 | Quinn Lashinsky | Frontend Developer | New York, NY | HTML, CSS, JS, React, Next.js, Node.js, Git, SQL, Postgres, TailwindCSS, SASS, GraphQL, Cypress | Remote, Relocate, Onsite | Email - quinnlashinsky@gmail.com <br /> [LinkedIn](https://www.linkedin.com/in/quinnlashinsky/)<br /> [Github](https://github.com/QMaximillian) <br /> [DEV](https://dev.to/qmaximillian)|
 | Jen Kennedy | Frontend Developer | Seattle, WA | TypeScript, React, JavaScript, Redux, Jest, GraphQL | On-site or Remote | [Website](https://www.jenkens.dev/) <br /> [Github](https://github.com/jenkens-dev) <br /> [LinkedIn](https://www.linkedin.com/in/jenkens/)|
 |Caitlyn Miley | Frontend Developer | Dallas, Tx | Javascript, React, HTML, Node, CSS, Bootstrap, Git | Remote | [website](https://caitlynmiley.com) <br /> [Github](https://github.com/smilleeymilleey) <br /> [Linkedin](https://www.linkedin.com/in/caitlynmiley/) <br /> [twitter](https://twitter.com/smilleymilleey)|
-|Reitwick Prakash |Looking for Winter(2021)/Summer(2022) internship in CyberSecurity Domain|College Park, MD |Tools- Burp Suite, Wireshark, Nmap <br /> Programming languages- Python, HTML, Javascript <br /> Certifications- CompTIA Security+ |Onsite/Remote |Email - rprakash@umd.edu <br /> [LinkedIn](https://www.linkedin.com/in/reitwick-prakash/)|
+|Reitwick Prakash |Looking for Winter(2021)/Summer(2022) internships in CyberSecurity Domain|College Park, MD |Tools- Burp Suite, Wireshark, Nmap <br /> Programming languages- Python, HTML, Javascript <br /> Certifications- CompTIA Security+ |Onsite/Remote |Email - rprakash@umd.edu <br /> [LinkedIn](https://www.linkedin.com/in/reitwick-prakash/)|
 
 
 ## Canada
