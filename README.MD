@@ -174,6 +174,7 @@ Country:
 | ------------- |-------------| -----| ------------- |-------------| -----|
 |  Shohel Rana    |  Frontend Developer   |  Bangladesh  | React,Angular,MongoDb,NodeJs,C#,AI |  Relocate  | iamshohelrana@gmail.com |
 |  Sajib Hawee    |  Frontend Engineer   |  Bangladesh  | React/Redux, Angular/RxJs, Vue/Vuex, Electron, Typescript, MongoDb, Git, GraphQL, REST |  Relocate  | [Github](https://github.com/haweecodes)<br />[LinkedIn](https://www.linkedin.com/in/sajib-hawee-2a818b154/)<br /> [Email]haweesajib10@gmail.com |
+| Sohail Mahmud | Software Developer | Bangladesh | Java, JavaScript, C++, NodeJS, Laravel, Flutter, Firebase, MySQL, SQL, MongoDB, AWS, Docker, Jenkins, Git | Onsite or Remote | +8801624340883<br />[LinkedIn](https://www.linkedin.com/in/sohailmahmud/) <br /> [Email](mailto:sohailmahmud@outlook.com) <br /> [Github](https://github.com/sohailmahmud) |
 
 ## United Kingdom
 
