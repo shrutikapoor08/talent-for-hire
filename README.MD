@@ -46,6 +46,7 @@ Country:
 - [Italy](#Italy)
 - [Mauritius](#Mauritius)
 - [Brazil](#Brazil)
+- [Turkey](#Turkey)
 
 ---
 
@@ -259,4 +260,9 @@ Country:
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Marcelo Leite | Web Developer/Designer | São Lourenço, MG | Agile, Front-End, Javascript, jQuery, CSS Animations, SVG, Modern Web, Babel, Gulp, WPO, APIs, PHP CMS, MySQL, ReactJS, React Native, GraphQL, fast learner.. | Remote, Relocation, On-site | [LinkedIn](https://linkedin.com/in/marceloleitemt/) <br /> [Github](https://github.com/marceloleitemt/) <br /> [Portfolio-Resume](https://www.mleite.com.br/resume/)|
+
+## [Turkey](#Turkey)
+|  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
+| ------------- |-------------| -----| ------------- |-------------| -----|
+| Furkan Güler | Junior-Mid Level Software/Full stack Web Developer | Antalya, TR | .Net & .Net Core (& ASP), C#, MSSQL, JavaScript, jQuery, CSS, SASS, HTML | Remote preferred, but open to relocate | [Github](https://github.com/mystictide) <br /> [Email](mailto:furkang2k20@outlook.com)|
 
