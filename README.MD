@@ -264,5 +264,5 @@ Country:
 ## [Turkey](#Turkey)
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
-| Furkan Güler | Junior-Mid Level Software/Full stack Web Developer | Antalya, TR | .Net & .Net Core (& ASP), C#, MSSQL, JavaScript, jQuery, CSS, SASS, HTML | Remote preferred | [Email](mailto:furkang2k20@outlook.com)|
+| Furkan Güler | Junior-Mid Level Software/Full stack Web Developer | Antalya, TR | .Net & .Net Core (& ASP), C#, MSSQL, JavaScript, jQuery, CSS, SASS, HTML | Remote preferred, but open to relocate | [Github](https://github.com/mystictide) <br /> [Email](mailto:furkang2k20@outlook.com)|
 
