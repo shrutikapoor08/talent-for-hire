@@ -259,4 +259,4 @@ Country:
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Marcelo Leite | Web Developer/Designer | São Lourenço, MG | Agile, Front-End, Javascript, jQuery, CSS Animations, SVG, Modern Web, Babel, Gulp, WPO, APIs, PHP CMS, MySQL, ReactJS, React Native, GraphQL, fast learner.. | Remote, Relocation, On-site | [LinkedIn](https://linkedin.com/in/marceloleitemt/) <br /> [Github](https://github.com/marceloleitemt/) <br /> [Portfolio-Resume](https://www.mleite.com.br/resume/)|
-
+| Eduardo Procopio Gomez | Web and Android Developer | Gravataí, RS | React, PHP, JavaScript, TypeScript, MySQL, Webpack, Electron, React Native and LibGDX | Remote, onsite or Relocation | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/in/eduapps) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://eduardo.ix.tc) |
