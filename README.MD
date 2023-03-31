@@ -161,7 +161,7 @@ Country:
 | Pawan Jain    | Full Stack Developer   | Bangalore / Gurgaon / Hyderabad | ReactJs, NodeJS, Angular, NestJS | ✅ | [LinkedIn](https://www.linkedin.com/in/jainpawan21/)  |
 |Neha Lakma |Frontend developer| India | ReactJs, VanillaJs, Firebase, SaaS, Styled-Components, Material-UI | Onsite/Remote| [Email](mailto:lakma.neha@gmail.com)<br/>[LinkedIn](https://www.linkedin.com/in/neha-lakma-b5436b1b0/) <br/> [Portfolio](https://neha-lakma-portfolio.netlify.app/)  |
 |Saurabh Kumar Yadav|Full Stack Developer|India|HTML,CSS, SCSS, JavaScript, ReactJS, NextJS, NodeJS, MongoDB, Express, Bootstrap, TailwindCSS|Onsite/Remote|[Email](mailto:zxvf@tutanota.com) <br/>|
-
+|Fahad Ali |Software Development Engineer |India |Node.js, Express.js, React, Spring Boot, C/C++, Java, Python, JavaScript, HTML, CSS, MySQL, MongoDB, PostgresSQL, Docker, AWS |Remote |[Email](mailto:zxvf@tutanota.com) <br/> [LinkedIn](https://www.linkedin.com/in/imf-ali/) <br/> [Github](https://github.com/imf-ali) <br/> [Portfolio](https://imf-ali.netlify.app/) <br/> [Twitter](https://twitter.com/imf_ali)  |
 ## Singapore
 
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
