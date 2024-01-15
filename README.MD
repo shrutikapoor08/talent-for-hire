@@ -78,7 +78,7 @@ Country:
 | Quinn Lashinsky | Frontend Developer | New York, NY | HTML, CSS, JS, React, Next.js, Node.js, Git, SQL, Postgres, TailwindCSS, SASS, GraphQL, Cypress | Remote, Relocate, Onsite | Email - quinnlashinsky@gmail.com <br /> [LinkedIn](https://www.linkedin.com/in/quinnlashinsky/)<br /> [Github](https://github.com/QMaximillian) <br /> [DEV](https://dev.to/qmaximillian)|
 | Jen Kennedy | Frontend Developer | Seattle, WA | TypeScript, React, JavaScript, Redux, Jest, GraphQL | On-site or Remote | [Website](https://www.jenkens.dev/) <br /> [Github](https://github.com/jenkens-dev) <br /> [LinkedIn](https://www.linkedin.com/in/jenkens/)|
 |Caitlyn Miley | Frontend Developer | Dallas, Tx | Javascript, React, HTML, Node, CSS, Bootstrap, Git | Remote | [website](https://caitlynmiley.com) <br /> [Github](https://github.com/smilleeymilleey) <br /> [Linkedin](https://www.linkedin.com/in/caitlynmiley/) <br /> [twitter](https://twitter.com/smilleymilleey)|
-
+| Saurabh Takle | Data Engineer / Software Engineer | NJ, CA, NY, TX | HTML, CSS, JS, React, Next.js, Node.js, Git, SQL, Postgres, TailwindCSS, GraphQL, AWS certified, Python, C++, Express JS, SQL, TypeScript, HTML, PHP, Java, Android Programming, Data Science libraries(NumPy, Pandas, TensorFlow, Scikit Learn, Sweetviz, Seaborn, DataPrep, Matplotlib, Jupyter Notebook, PyTorch), Databases (NOSQL(MongoDB), SQL Server Management Studio, MySQL, Oracle Database, PostgreSQL) | Remote, Relocation, onsite, hybrid | [LinkedIn(https://www.linkedin.com/in/saurabht0306/)], [Email(saurabh.takle@gmail.com)] |
 
 ## Canada
 
