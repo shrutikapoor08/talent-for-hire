@@ -54,7 +54,6 @@ Country:
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
 |Chiranjiv| Product Manager/Project Manager| Arizona, California, Washington|Product Management |Remote or Onsite|623-518-7987|
-| Kate Efimova    |  Software Engineer    |  Bay Area, CA    | GO/TypeScript/Node.js/React/Redux    | Remote friendly!    | kefimochi@gmail.com    |
 |  Teona Mushambadze    |  Software Engineer - Frontend | Batumi, Georgia    | Javascript/Vue.js, Python    |✅ |  mushambadzeteona@gmail.com <br> [Portfolio](https://highflyer910.github.io/)    |
 | Meggan M Green | Software Engineer and SDET; Jr or Level I | Chicago, USA | Python, Flask, Rails, HTML/CSS, SQL | On-site, Remote, Relocation | email@meggan.green <br> [LinkedIn](https://linkedin.com/in/meggangreen/) |
 | Bhavika Patel   | Junior iOS Mobile Developer | Bay Area, CA  | Swift   | Onsite   | Bhavika19p@gmail.com  |
